@@ -1,0 +1,541 @@
+,text_id,generated_text,suddenness,familiarity,predict_event,pleasantness,unpleasantness,goal_relevance,chance_responsblt,self_responsblt,other_responsblt,predict_conseq,goal_support,urgency,self_control,other_control,chance_control,accept_conseq,standards,social_norms,attention,not_consider,effort,emotion
+0,51038,I woke up the morning after a drunken argument with my friend,5,1,1,1,5,5,2,5,3,4,1,4,5,3,1,2,5,2,5,5,5,guilt
+1,51604,I cleaned mum in laws paving block driveway,2,4,5,5,1,2,1,5,4,5,4,2,5,4,1,2,1,1,5,1,5,pride
+2,51581,An art piece I produced was auctioned off for charity and raised a good sum for the cause,3,1,2,5,1,4,1,4,4,1,4,1,2,4,4,4,1,1,2,1,3,pride
+3,41615,my youtube channel received a lot of views and subscribers all at once,4,1,2,5,2,4,2,3,4,2,4,1,2,5,2,4,1,1,2,1,2,surprise
+4,51094,"I felt joy when I was at the amusement park with my friends as I was having a good time enjoying rides, food and company.",2,4,5,5,1,2,1,3,3,4,5,2,4,4,1,5,1,1,3,1,3,joy
+5,31039,I felt sadness when I couldn't go to a small friends get together because my road flooded and the next day I found out that my best friend and my boyfriend made out for hours and were all over each other the entire night and no one stopped them or mentioned me or told me everyone just watched it happen,5,1,5,1,5,5,1,1,5,1,1,5,1,5,1,1,5,5,5,5,5,sadness
+6,5262,"I felt boredom when I went to visit my new niece because although she's very beautiful and my brother's family are lovely, all anyone wanted to talk about was the baby which wasn't interesting to me as I don't have children.",1,3,4,3,2,1,4,1,4,4,4,4,3,4,2,4,1,1,3,1,2,boredom
+7,41001,A man named George Floyd was rumoured to have been killed in America.,5,3,1,1,2,5,1,1,5,1,1,1,1,5,1,1,5,5,5,5,5,no-emotion
+8,3183,"I was sat in the library at university, completing my reading list for my dissertation. I was halfway through reading a book on the youth participation in protest under the Pinochet dictatorship. The book itself was in Spanish, and I found my mind continually drifting, re-reading multiple sentences as I hadn't read taken them in the first time over. I also frequently took breaks whenever I could, consuming a huge amount of water in order to do something other than the task I was completing.",1,5,5,2,3,2,1,4,1,5,2,2,5,2,2,4,1,1,3,2,4,boredom
+9,4920,"Right now.  i am happy, calm, relaxed and under no external stressors.",3,5,1,5,1,3,4,5,1,1,5,1,5,1,3,1,1,1,2,1,1,no-emotion
+10,4672,I was playing with my young neice who was around 18months old out on the street. She started having a tantrum and threw herself backworks I managed to catch her but she hit her head of the floor the sound made me feel sick. I checked her and she was fine no cuts or anything she didn't even cry but I felt guilty that I haven't caught in time.,5,4,2,1,5,3,5,2,4,4,1,5,2,4,2,2,1,1,4,4,3,guilt
+11,5401,when we were in lockdown,5,1,2,1,5,5,5,1,1,1,2,5,1,3,5,5,3,2,4,5,5,boredom
+12,5432,I felt bored driving to work today,5,3,5,1,5,4,3,5,1,4,3,4,3,3,2,1,3,1,5,5,5,boredom
+13,6411,"I left my family to go to college, specifically my siblings. As the older sibling, I took the role of doing a lot for them and kind of raising them so I felt guilty leaving them.",1,1,3,1,5,4,3,5,1,4,1,2,3,2,3,3,3,1,5,5,4,guilt
+14,5542,I was turned down for a promotion at work,4,1,1,1,5,5,1,1,5,1,5,3,1,5,2,3,5,1,1,5,5,disgust
+15,52436,I bumped into a good friend that I hadn't seen in a long time. This happened in a place I really wouldn't have expected to have seen her.,3,3,2,5,1,1,4,4,4,3,4,4,3,2,3,3,1,1,4,1,3,surprise
+16,4767,because my favourite TV show came out with a new season that I have been waiting a long time for.,2,5,4,5,1,2,4,5,5,3,4,1,1,5,5,1,2,1,4,1,1,joy
+17,41414,I felt sadness when I said goodbye to my sister as she was leaving for university. She was crying so it made me very sad,2,4,3,1,5,2,1,1,3,4,1,4,2,2,4,3,1,1,3,1,3,sadness
+18,5295,i was unwell and i was sat in the doctors office and a lady was talking to me and i began to zone out as i was not in the right frame of mind to listen or be interested. It was utterly boring to me,2,2,1,2,1,3,4,4,4,1,1,4,2,4,4,1,5,1,4,4,4,boredom
+19,41730,"I felt surprise when my friends threw me an early birthday party because I was not expecting it at all, especially a month before my birthday.",5,2,1,5,1,1,1,2,5,1,1,4,4,3,1,3,1,1,3,1,3,surprise
+20,4548,When I was home alone and someone knocked on my door at night.,5,2,1,1,5,1,4,1,5,3,1,2,2,4,3,1,4,3,5,5,4,fear
+21,4549,"I felt fear when I was trapped in a cave while I was going hiking in the mountains. I had gone out against my wife's instructions because I wanted to have fun. But a snow storm came against me. I had to hide in a dark, scary cave for almost 10 hours before it stopped.",4,4,4,1,4,3,4,4,1,3,1,3,4,1,5,4,1,1,3,4,4,fear
+22,51375,When my bud was late because I was reading a good book anyway,2,5,4,4,2,2,1,1,2,4,1,1,2,4,4,5,3,2,2,2,2,no-emotion
+23,51420,I heard my aunt died.,5,1,1,1,5,1,5,1,1,3,1,2,1,1,5,3,3,1,4,1,1,no-emotion
+24,31041,When a loved one died,3,1,3,1,5,5,2,1,5,5,1,4,1,1,5,1,5,1,5,5,5,sadness
+25,52366,I felt shame when i was humiliated by my boss at work because she said my work wasnt good enough,5,1,2,1,5,4,1,4,3,2,2,4,2,5,2,4,5,1,4,2,4,shame
+26,41054,I felt pride when I completed my first half marathon.,1,2,3,5,1,4,1,5,2,4,5,1,5,2,1,5,1,1,4,1,4,pride
+27,51173,Received my results for my university degree and found I had been awarded a first,5,1,2,5,1,5,3,3,3,1,3,1,1,5,2,5,1,1,4,1,3,joy
+28,52486,I gave birth to a baby boy,4,1,1,4,1,4,4,1,4,4,5,5,2,5,5,5,3,1,4,1,3,surprise
+29,51760,I was made an offer to study a prestigious teacher training course,1,1,4,5,1,5,1,5,4,4,3,2,4,3,1,4,1,1,5,1,3,pride
+30,4772,"I felt joy when the girls hockey team I was coaching won gold in a tournament. I was the assistant defensive coach and after a long, hard tournament we won first place.",3,5,4,5,1,4,4,2,4,5,5,4,4,5,2,3,1,1,5,1,4,joy
+31,41601,i injured my back and wasn't able to do what i normally do,2,2,2,1,4,3,3,3,1,4,1,3,2,1,2,2,3,1,4,4,3,shame
+32,4481,i was having a csection for the birth of my baby,1,1,1,1,5,5,5,1,5,1,5,5,1,5,5,1,5,1,5,5,5,fear
+33,4758,My hubby was promoted at work place.,1,1,4,5,1,4,1,1,1,2,5,5,1,5,5,3,1,1,5,5,5,joy
+34,41205,I felt pride when I was able to complete a task at work which a Co worker told me I wouldn't be able to do,2,3,4,5,2,4,3,4,3,4,4,1,4,4,3,4,2,1,3,3,4,pride
+35,4781,My son came overall best in his school.,1,1,1,5,1,5,5,1,1,5,4,4,4,1,1,1,1,1,5,4,5,joy
+36,51378,when i beat up my mate on the street fight,5,5,2,5,1,5,5,2,5,2,4,5,4,2,5,4,2,2,5,4,5,no-emotion
+37,761,I thought someone had broke in and was outside my door.,5,1,1,1,5,1,5,1,1,5,1,2,1,1,5,1,2,1,5,5,2,fear
+38,5877,When I was at work and had a aggressive angry customer all because I asked for ID they took offense and didn't like it,5,5,5,1,5,3,1,1,5,5,1,1,3,4,5,4,4,1,4,5,4,fear
+39,41447,I felt sad when my Nanna was diagnosed with alzheimers,1,4,3,1,5,4,5,1,1,2,1,4,3,3,5,1,1,1,5,5,4,sadness
+40,6322,I had to make new friends at university and talk to lots of new people,1,1,5,3,3,4,1,2,2,2,2,4,5,5,1,2,1,1,4,2,4,fear
+41,3205,I’ve nothing to do,2,5,4,1,5,2,1,5,1,2,1,1,2,1,1,1,1,2,2,1,1,boredom
+42,3838,I helped my mum shopping because she enjoys company.,1,5,4,5,1,1,1,5,5,1,5,1,5,5,1,1,1,1,1,1,1,pride
+43,51571,My son behaved well at the park. He shared his ball and snacks and played well with the other kids. I felt proud of him,3,4,4,3,1,1,2,2,5,4,3,2,2,5,1,5,1,1,3,1,2,pride
+44,52381,I was embarrassed by a male colleague.,4,2,2,1,4,3,2,4,3,4,2,4,2,4,4,4,4,4,4,4,4,shame
+45,51749,when i introduced my girlfriend to my family and friends,2,2,3,5,1,4,2,5,4,3,4,4,4,5,2,2,2,3,3,2,4,pride
+46,4450,I felt disgust when my ex best friend stated I didn’t deserve a ‘happy birthday’,3,1,1,1,5,4,1,1,5,4,1,3,4,4,1,4,4,1,3,2,2,disgust
+47,6534,I felt no particular emotion when I did this study,1,1,1,4,2,2,3,4,3,1,3,5,2,2,1,4,2,4,2,4,2,no-emotion
+48,6380,"in my childhood home my kitchen led on to my bathroom, with the fridge located just behind the door that led into the bathroom. One time when I was aged 7 or 8, in the middle of the night I was thirsty so I went downstairs to get a drink from the fridge. I knew my father was up and he was using the toilet in the bathroom in the next room. As I shut the fridge after I had got the juice out, my dad was finished in the bathroom and opened the door. He must have heard the fridge shut, but because of the layout of the kitchen, I was hidden behind the door. (me and my dad were stood side by side but the open door was in between us if that makes sense). Everything fell silent and the next thing I know my dad has swung a fist around the door and abruptly stopped when he realised it was me in the kitchen, not a burglar that had got caught hiding! I dropped my juice on the floor out of absolute fear of my 40 year old dad punching me in the face!",5,1,1,1,5,1,2,4,4,1,3,5,2,2,4,1,2,1,3,4,4,fear
+49,31185,when I was given a promotion at work.,5,1,1,5,1,5,1,4,3,4,5,2,2,5,1,4,1,1,4,2,4,surprise
+50,31212,"I was making lemon slice, it was done cooling in the fridge, and I needed to get it off the tray. I didn't have anything nearby except a knife, so decided it would be a good idea to pry it off with that. Knife slipped and I sliced my thumb open, which was a huge shock/surprise, took a second to process and act (was then followed by fear).",5,1,2,1,5,2,1,5,1,1,2,5,4,1,2,4,1,3,5,1,5,surprise
+51,4121,when my boyfriends boss said a raise wouldn't make him happier,3,2,2,2,2,2,4,2,4,2,2,2,2,2,4,3,4,2,1,2,2,anger
+52,491,I was advised I would be promoted then they gave it to someone else,5,4,1,1,5,4,1,1,5,1,1,5,1,5,1,5,5,3,5,3,5,anger
+53,5266,Night club nights out which would go on too long. However due to being with others pear pressure would make you stay out,2,3,4,3,3,1,1,3,2,4,3,1,3,4,1,1,1,1,3,4,4,boredom
+54,5611,Covid cancelled my wedding,5,1,1,1,5,3,5,1,5,1,1,5,1,5,5,2,5,5,5,5,5,disgust
+55,51035,I feel like a bad mother,1,5,5,1,5,4,2,5,5,5,1,4,3,3,1,1,4,1,3,5,5,guilt
+56,5815,I was in car crash,5,1,1,1,5,5,5,1,5,1,1,5,1,5,2,5,3,5,5,5,5,fear
+57,6781,knowing i have a bit of money coming in to help clear some of my debts,4,1,3,5,1,5,3,4,1,1,4,3,3,2,2,3,1,1,4,1,1,relief
+58,52563,I found out that I had received an unexpected windfall due to an inheritance from a will belonging to a great aunt.,5,1,1,5,1,3,5,1,3,1,5,1,1,3,1,5,1,1,2,1,1,surprise
+59,3433,"My mother had come home from running errands and my dog came down to greet her at the door. However, my sister had just left on her bike, and my dog decided it was a great idea to chase after her. She didn't have her leash on and ran halfway down the road before my sister stopped to catch her. I was quite afraid that she would get hit by a car.",5,1,3,1,5,3,2,1,1,1,1,5,3,3,2,1,5,1,5,1,4,fear
+60,6585,I got my covid booster as the process was really smooth and quick,1,2,4,3,3,4,1,1,1,4,4,1,1,3,1,3,1,1,3,1,1,no-emotion
+61,3695,i woke up this morning,1,5,5,3,3,1,1,3,1,5,5,5,5,5,1,5,1,1,4,2,3,no-emotion
+62,5241,I was working in a job as a gatekeeper for a construction site in the countryside. We had very little vehicles coming in and out of the site so I spent most of my day waiting around for something to happen.,1,3,4,2,4,3,1,3,4,4,3,2,3,3,1,5,1,1,2,4,2,boredom
+63,4185,I felt boredom when I was unhappy in my job.,2,1,1,1,4,1,1,4,3,2,2,4,4,2,1,1,2,2,4,4,4,boredom
+64,444,My boss disciplined me even though I had done nothing wrong,5,1,1,1,5,5,1,1,5,1,1,5,5,5,1,5,5,1,5,5,5,anger
+65,52590,"I felt surprise when I was out one day picking up trash in the park and a woman around my age came up to me and was so excited to see what I was doing, she asked for my phone number and said maybe we could hang out sometime and get our kids to hang out. I was surprised because no one had ever been that excited about something I was doing, and as an adult I'd never had a stranger ask for my number and want to be my friend so randomly like that.",5,1,1,5,1,5,5,5,5,1,5,5,5,5,1,4,1,1,4,1,2,surprise
+66,41291,When my son under went tongue tie surgery because it improved his weight gain and our feeding experience,1,1,3,1,5,3,4,1,1,4,4,4,1,5,5,3,4,1,5,3,3,relief
+67,578,when my employer discriminated against me,5,1,1,1,5,5,1,1,5,3,2,5,2,4,1,5,5,5,5,2,5,anger
+68,3249,"anytime i smell milk. never did like it, but now i have to give it to my baby.",4,4,4,1,5,1,1,5,1,4,1,2,3,1,1,4,2,1,2,4,2,disgust
+69,41899,I told my friend something personal and they didn't take advantage of that,1,1,5,5,1,4,1,5,4,4,5,1,4,4,1,1,1,1,1,1,1,trust
+70,6740,I placed a large bet on a sports game and in the last few minutes of the match they scored a goal in order to win my bet.,5,5,4,5,2,2,2,1,4,3,3,1,1,5,1,5,1,2,3,1,2,relief
+71,330,"my friends would hang out without me, i know this shouldn't bother me but unfortunately i can be a very jealous person sometimes, this is something i am working on because i know being angry only effects me not them",5,5,5,2,4,3,1,2,5,4,2,1,1,5,1,5,4,1,1,5,4,anger
+72,4508,A police chase whilst i was walking home at around 2am,5,1,1,2,4,2,4,1,5,1,1,1,1,5,1,1,4,4,2,1,1,fear
+73,41344,my mother in law went to the ER and was told a medical condition wasn't an immediate emergency.,3,3,3,4,1,4,2,1,1,2,1,4,1,1,5,2,1,1,3,3,2,relief
+74,6396,I have shouted at my children.,5,3,5,1,5,3,1,3,3,4,1,3,3,4,1,1,5,3,5,3,5,guilt
+75,6787,When I was told my mom had awoken from her coma,5,1,1,4,1,5,3,1,5,3,4,3,1,5,3,5,1,1,5,1,5,relief
+76,52490,I got a grade B on my science GCSE,5,3,1,5,1,5,1,5,1,2,1,1,5,1,1,4,1,1,5,4,4,surprise
+77,5584,"I felt disgust when I was cleaning an empty car yard that was temporarily going to be used for business reasons and I found a dead bird. When I flipped it over with a stick there were a lot of maggots and flies underneath, and in the moment I wanted to burn them with a flamethrower or just kill them somehow.",5,2,5,1,4,1,1,1,1,5,1,3,1,1,5,4,1,1,3,2,2,disgust
+78,51309,WHEN I WON $500 ON THE LOTTERY TICKET.,5,1,1,5,1,3,5,5,1,1,1,5,5,1,1,5,4,1,5,1,5,joy
+79,636,my neighbour was playing loud music,5,4,1,1,5,1,1,1,5,2,1,2,4,4,1,3,4,4,4,5,3,anger
+80,52807,When someone told me to trust them at work when we had a hard task,2,3,2,2,1,2,1,3,3,1,2,3,3,3,1,1,1,1,2,1,3,trust
+81,811,"I don't really like my job anymore and I feel disappointed and sad about it. I worked hard for it, and my job is very desirable by many, but I don't really care for it. I realized recently that my job has not turned out to be what it should be.",3,1,1,1,5,5,1,3,3,1,1,1,1,3,5,3,5,1,4,5,5,sadness
+82,52028,my mom's cancer surgery was a success.,4,1,1,1,5,1,1,1,5,3,3,5,1,5,5,1,1,1,5,5,5,relief
+83,3308,i heard about a nursing home worker taking advantage of an old blind man.,2,2,2,1,4,1,1,1,5,3,1,1,1,4,1,1,5,5,3,3,2,disgust
+84,6751,I felt relief when I took a pregnancy test and found out that it was negative because I was worried that I might be pregnant,3,3,4,5,2,5,3,3,3,4,1,1,1,1,5,2,5,4,3,4,2,relief
+85,31061,Visiting my grandpa in the hospital when he first got sick.,5,1,1,1,5,4,4,1,1,2,1,4,1,2,2,2,1,1,3,3,4,sadness
+86,763,I realised that due to previous financial decisions I had no credit rating and it would be considerably more difficult than anticipated for me to leave my husband,3,3,4,1,5,5,1,5,4,5,1,2,4,3,1,1,3,1,5,4,5,fear
+87,5440,Isolating for 2 weeks,1,5,5,1,5,1,1,1,1,5,1,1,1,1,5,1,1,1,1,1,1,boredom
+88,52555,My dog passed away,5,2,5,1,5,5,5,1,1,5,1,5,3,3,5,5,5,1,5,5,5,surprise
+89,5493,I felt disgust when I heard about a back stabbing incident at work.,4,1,1,1,4,4,3,1,4,4,1,5,1,5,1,3,5,4,5,5,5,disgust
+90,4909,I felt no particular emotion when I tasted sea foods,2,4,5,1,4,3,4,2,2,4,4,2,1,1,3,3,2,1,2,3,2,no-emotion
+91,41883,i felt trust when i had to open up to a close friend about my health. i struggle to trust people in day to day life but needed someone to talk to. she was there with a listing ear and the relief from opening up and trusting someone was a weight lifted. its helped me to have trust in more people and realise there is more good people in life than there is bad,1,1,1,5,1,5,5,5,1,3,5,5,5,5,1,1,5,1,5,3,1,trust
+92,51154,my daughter was born.,1,1,1,5,1,5,1,5,1,1,5,1,5,1,1,5,1,1,5,1,1,joy
+93,5399,I felt bored when I was in a meeting at work that I didn't have anything to input nor did I need to know about what was being discussed,1,5,5,1,5,1,1,4,5,5,1,4,1,5,1,1,1,1,3,2,1,boredom
+94,51165,"my dog started playing with her toy, and throwing them about and really getting into playing with her toys. It was funny to watch and made me laugh and smile about how silly she was being.",4,4,2,5,1,1,4,4,2,2,4,2,4,4,2,4,1,1,2,1,2,joy
+95,41241,When my mum got released from hospital,4,2,2,1,5,5,5,1,1,1,1,5,1,4,4,4,5,4,5,5,4,relief
+96,471,I found out my daughter was being picked on at school,3,1,1,1,5,2,1,1,5,4,2,5,1,5,1,2,2,4,5,3,5,anger
+97,5908,I took my driving test after previously failing.,3,2,3,1,5,5,4,3,3,4,3,3,4,4,4,4,4,1,5,5,5,fear
+98,5736,My partner phoned that she had been in a car accident with my son,5,1,2,1,4,5,2,1,4,3,1,5,1,2,4,2,3,4,5,2,3,fear
+99,6569,I went to bed last night,2,5,5,5,3,3,1,1,1,5,5,1,1,1,5,5,1,1,1,5,1,no-emotion
+100,6724,I helped someone in need,4,1,1,4,2,2,1,1,4,1,1,4,2,4,1,4,1,1,4,1,5,pride
+101,3363,I saw a spider,5,1,1,1,5,1,5,1,1,1,1,5,1,1,5,5,3,3,3,5,5,fear
+102,4523,I felt fear when I had to own up to my dad about being very drunk,4,1,2,1,5,1,1,5,1,4,1,5,5,5,1,1,5,1,4,5,5,fear
+103,51770,I felt pride when I helped my brother build a website for his consulting business because he really liked the end product and the work and effort I had put into it.,1,2,3,5,1,3,1,4,4,4,4,3,5,3,1,4,1,1,5,1,3,pride
+104,5463,At my previous job when I felt I had outgrown the role,1,4,4,1,5,5,1,3,1,5,2,1,1,1,1,2,1,1,5,4,5,boredom
+105,3928,I got a negative test for a disease that I thought I might have.,4,2,1,1,4,5,4,1,5,2,1,4,1,1,5,2,5,1,4,5,5,relief
+106,3125,I was watching a youtube video that had been recommended to me by the algorithim,1,5,5,1,4,1,4,5,1,5,4,1,5,3,1,5,1,1,4,1,1,boredom
+107,4270,I started a new job and I was placed on induction but I was constantly left alone and bored,3,3,4,1,5,4,1,3,4,3,3,2,3,5,2,3,3,2,4,4,3,boredom
+108,41798,I was being held by my girlfriend,2,3,4,5,1,3,2,4,4,4,5,1,4,4,1,5,1,1,3,1,1,trust
+109,51206,"Myself, my husband and my son arrived at our holiday destination which was a cottage in Cornwall",1,4,5,5,1,4,1,5,5,5,5,3,5,4,1,5,1,1,4,1,1,joy
+110,51265,The time when my mother in law was granted permission to enter the UK as a visitor,1,3,3,5,1,1,3,3,1,1,4,4,5,4,5,5,1,1,1,1,4,joy
+111,243,I saw someone being bullied at work,4,3,2,1,5,2,2,1,5,2,1,4,2,4,1,3,5,5,4,4,4,disgust
+112,52803,I was voted for by my collogues to supervise a particular project even at tender level.,4,3,3,5,1,5,3,4,4,1,5,4,4,3,3,1,1,1,4,4,4,trust
+113,3482,When I quit my job working with my father.,5,4,4,2,4,5,4,5,3,4,1,3,3,3,4,3,4,2,5,5,5,guilt
+114,41878,i travelled to America on my own for work at 18,3,1,2,4,2,5,4,4,1,1,5,2,4,1,3,2,1,1,3,1,2,trust
+115,5294,I was waiting for my husband to return from work,2,4,3,3,2,1,1,1,3,2,2,2,2,1,2,1,2,1,1,1,1,boredom
+116,51809,When I graduated high school,1,1,5,5,1,1,1,5,1,1,1,5,5,1,1,1,1,1,5,1,4,relief
+117,56,a customer at work was being very impolite to me.,5,3,2,1,5,1,3,1,5,3,1,3,4,3,2,3,1,2,5,4,3,anger
+118,52427,I bought a new vehicle,4,1,2,3,2,5,4,5,2,5,4,5,5,4,1,4,1,1,5,1,5,surprise
+119,51868,My brilliant daughter was accepted into Columbia University - with a full scholarship(!) - upon graduating High School.,3,1,4,5,1,3,1,3,5,5,4,5,4,5,4,3,1,1,3,1,3,relief
+120,3488,When I yell at my child,5,2,2,2,4,3,4,1,5,2,2,5,2,5,2,4,3,1,4,2,3,guilt
+121,54,my partner cheated on me,4,1,3,1,5,4,1,4,4,2,1,4,3,1,1,4,5,4,3,4,5,anger
+122,51050,Working when my children where young,1,3,4,1,5,4,1,5,1,5,1,1,5,1,3,1,2,1,4,4,4,guilt
+123,4620,of a sexual assault in college,3,1,1,1,5,2,2,1,5,2,1,3,2,4,1,3,5,5,5,5,4,fear
+124,31073,Didn't get job I wanted,3,1,3,1,5,4,3,1,5,3,1,4,3,2,5,3,3,1,5,5,5,sadness
+125,4635,"my dad got very very sick all of a sudden without any knowledge of what was wrong with him, he was immediately admitted into the hospital. My fear was that the doctors were not going to be able to find out what was wrong with my dad while his health was declining. I was fearful that they would not be able to help him in any way.",5,1,1,1,5,5,5,1,1,3,1,5,1,4,4,2,4,1,5,1,5,fear
+126,51316,I felt JOY when I passed my exams,2,5,3,2,4,5,2,5,1,1,4,5,5,4,1,4,1,1,5,1,5,joy
+127,5134,my family member passed away,5,1,1,1,5,5,5,1,1,1,1,4,1,1,5,5,2,1,4,5,5,anger
+128,52053,"After having my second child, I remember feeling alone and exhausted in her bedroom while caring for her in the night. And feeling sadness.",2,3,3,1,5,4,1,3,5,4,1,5,2,4,5,2,4,1,5,4,5,sadness
+129,5443,When i went to a party,1,1,4,2,4,1,4,1,4,1,1,3,1,4,1,4,1,1,3,3,3,boredom
+130,4589,When my sister had an allergic reaction and her throat was closing up,5,4,1,1,4,5,5,1,1,1,1,5,5,1,5,1,3,1,5,5,5,fear
+131,31191,I was proposed to,5,1,4,5,1,5,1,3,5,5,5,5,2,5,1,5,1,1,5,1,3,surprise
+132,5969,I lied to my mother when I was a teenager.,1,2,1,1,5,5,1,5,1,4,1,3,4,1,1,3,3,1,2,4,3,guilt
+133,5637,I have binge eaten,2,4,2,4,3,1,1,5,4,5,1,1,1,4,4,1,5,4,1,5,4,disgust
+134,4603,I felt FEAR when a colleague of mine at the organization who i had close contact with tested positive for Covid 19. I was so restless and nervous that i  had to go to the hospital to get myself tested and the results were negative,4,4,1,1,5,1,4,1,3,1,1,5,1,1,1,4,1,1,5,1,4,fear
+135,4222,I attended a lecture that wasn't interesting at all and I was unable to leave.,2,4,4,2,3,2,1,3,2,4,2,2,1,5,1,2,1,1,4,2,3,boredom
+136,3952,When I found out my eye surgery was successful.,5,1,1,1,5,5,5,5,1,3,3,5,1,5,3,2,1,1,3,2,3,relief
+137,6760,My lost ring was found in a pub,2,2,1,4,2,4,3,2,4,3,2,5,1,4,3,2,1,1,4,4,4,relief
+138,2196,my new car arrived on the drive,2,3,4,5,1,4,1,5,2,4,5,4,5,3,4,1,1,1,4,1,4,surprise
+139,5743,Trying to fall asleep after watching a short terrifying movie.,3,1,1,1,5,1,1,5,1,1,4,1,5,1,1,5,1,1,1,5,3,fear
+140,6305,my ex boyfriend tried to kiss me and I didn't really like him,3,1,5,1,5,3,2,2,5,4,1,5,4,5,1,4,5,2,4,5,5,disgust
+141,3818,I excelled in my career,5,1,4,4,1,4,3,5,4,3,5,2,2,3,1,3,1,1,2,2,2,pride
+142,31122,my father called me out when he didn't like the decision I made,5,1,4,1,5,1,5,5,3,2,2,2,4,3,3,5,5,3,5,5,4,shame
+143,41695,"When my partner and I recently found out we were pregnant again, about 2 months before our daughters first birthday. The feeling was excitement mixed with worry, fear and anxiety. But it was and still is a lovely surprise we can’t wait to meet.",5,5,2,5,1,5,1,5,5,2,4,2,1,1,1,4,4,1,5,3,5,surprise
+144,41028,"when one of my old friends told me that she couldn't make it to my birthday party. I thought I would have been sad, but we barely talked anymore and I didn't like her that much anyway.",3,3,4,3,3,2,2,1,5,4,2,4,2,5,2,4,1,1,4,1,2,no-emotion
+145,4451,"I felt Disgust when I got to the grocery store to get my kid some school materials, just to see the prices for some material had already gone up.",5,4,5,1,5,4,2,1,4,4,1,4,1,5,4,2,4,2,5,5,4,disgust
+146,5487,"a customer at work was treating their spouse incredibly poorly.  They were very rude and demanding, and talked down to them as if they were a child.  I felt absolutely awful, and was disgusted with how this person behaved, especially in public.",4,1,1,1,5,1,1,1,5,3,3,2,1,5,1,3,5,2,3,2,2,disgust
+147,447,My mother and I got into a heated argument about my finances.,5,5,5,1,5,4,3,4,4,5,1,5,5,4,1,5,5,1,5,5,4,anger
+148,52248,i was verbally abused at supermarket,5,1,1,1,5,4,5,1,5,2,1,4,1,5,1,4,5,3,4,2,4,sadness
+149,51180,I went to the gym,1,5,5,5,1,1,1,5,1,1,5,3,1,1,1,3,1,3,3,1,3,joy
+150,51167,I passed my ACE personal trainer exam.,1,4,4,5,1,5,1,5,1,5,5,5,5,3,1,5,1,1,5,1,5,joy
+151,41612,When I had a surprise birthday party because I wasn’t expecting it,5,2,4,5,1,1,1,1,5,1,5,4,3,5,1,1,1,1,5,1,4,surprise
+152,632,My Father  tried to turn my brother against me by telling him lies to gain his sympathy for a sick old man.,4,3,1,1,5,5,5,1,5,1,1,5,1,5,1,5,5,5,5,3,5,anger
+153,51383,I felt no particular emotion when someone I was getting to know asked me out.,5,5,1,3,3,1,3,1,5,5,5,5,3,5,3,5,3,1,5,5,3,no-emotion
+154,51222,i found out i was pregnant,5,1,3,5,1,5,3,5,5,5,5,1,4,4,1,3,1,1,5,1,3,joy
+155,6733,I felt relief when I found a lost pet,4,1,4,2,4,2,2,1,5,3,1,5,5,5,1,4,3,1,3,1,3,relief
+156,51714,I played above my own standards in a match of League of Legends,4,3,3,5,1,1,2,4,4,1,2,5,5,4,2,5,1,1,5,1,1,pride
+157,6227,my partner was watching a film and it showed someone being killed and then another person got sick when they saw the dead body and it was a stupid senseless movie.,2,1,4,1,5,1,1,3,5,2,1,2,3,3,1,3,5,5,1,5,2,disgust
+158,374,When my mom didn’t do my laundry after I asked her to and she forgot,4,3,3,1,3,2,4,3,3,2,2,5,2,2,4,2,3,2,4,4,4,anger
+159,4807,I felt JOY when I bought tickets to see Hamilton for 2022,3,1,3,5,1,1,4,5,3,2,5,4,3,4,1,3,1,1,4,1,3,joy
+160,5514,My daughter bit her sister,5,2,1,1,5,2,1,1,5,3,1,5,3,4,1,2,5,3,5,1,5,disgust
+161,41433,I felt sadness when my sister passed away.,5,2,1,1,5,5,5,1,5,1,1,5,3,4,4,1,5,4,5,5,5,sadness
+162,52544,I felt really surprised when I discovered my friend was pregnant. She has a disability and always said she wasn't sure if she could have children. I was so surprised when she told me I actually spat out my drink!,5,2,1,4,1,1,5,1,5,1,3,5,1,5,4,5,1,1,3,1,3,surprise
+163,4301,"Working from home throughout the pandemic. It was a lonely experience and I felt my job had changed drastically. I was no longer interacting with customers and now completing the same tasks over and over again, giving little room for growth and challenge within my role.",5,1,1,1,5,4,5,1,1,1,2,3,1,2,5,1,4,2,4,4,4,boredom
+164,5893,"I was walking down a muddy slope, slipped and nearly lost my footing",5,1,3,1,5,2,3,3,1,2,2,4,4,1,2,2,1,1,5,5,5,fear
+165,4370,I felt Disgust when my job decided to pay me on a part time basis for my full time job because of the effect of Covid-19.,5,1,1,1,5,2,5,1,1,2,3,4,2,4,5,4,5,4,4,5,3,disgust
+166,41110,I was given special award pf excellence at work as the most the most enterprising female. I was really proud of myself.,2,4,4,5,1,1,1,5,1,2,5,2,3,4,2,2,1,1,4,1,1,pride
+167,41502,"I went an important playoff basketball game, but the team I was rooting for lost and was eliminated from the playoffs.",3,3,3,2,4,1,5,1,4,2,3,3,1,5,5,4,1,1,3,4,3,sadness
+168,41244,I felt relief after my family dog came out of surgery alright after having kidney issues.,3,1,2,1,5,3,5,1,3,5,5,3,1,4,4,1,1,1,3,5,5,relief
+169,6756,When I though I was going to get fired but I didn't,4,3,1,1,4,5,1,1,3,1,1,2,1,5,1,1,1,1,4,1,1,relief
+170,6664,getting my drivers license,3,4,4,5,1,4,1,5,4,4,5,5,5,5,2,4,1,1,5,1,3,pride
+171,51673,"I felt pride when I completed my work better than anyone else in my workplace, knowing that  I did a really good job and produced the best work I could.",2,4,5,5,1,3,1,5,2,4,5,3,5,2,1,5,1,1,3,1,2,pride
+172,6166,I studied something I was disinterested in,1,5,5,1,5,3,1,4,2,5,3,4,2,3,3,4,2,1,4,1,5,boredom
+173,5587,My friend coughed in my face without apoligizing.,5,4,1,1,5,1,1,1,5,1,1,1,1,5,1,5,1,4,3,4,1,disgust
+174,3147,"I felt boredom when I stayed at my auntie's house in london as she was busy with her work and I had forgotten to bring something to entertain me. Thus, I was bored.",2,3,3,2,3,2,2,4,4,3,2,2,3,2,2,2,2,2,3,3,3,boredom
+175,41588,arguing with my partner because I have tried to shame him for not wanting to quit smoking.,4,4,4,1,5,4,1,4,4,4,1,2,2,4,1,2,4,2,4,3,4,shame
+176,4720,I felt guilt because I stole money from my parents,4,1,4,1,5,5,1,5,1,3,1,3,4,1,1,4,4,2,4,3,5,guilt
+177,31244,I felt surprised when my parents bought me a car,5,2,3,5,1,3,1,2,5,2,5,3,3,5,1,5,1,1,3,1,3,surprise
+178,52877,I had a big job interview coming up and I had been preparing for a while. I trusted myself that I would perform well in the interview and get the job,1,2,4,4,1,4,1,4,3,3,3,4,4,2,1,3,1,1,5,1,4,trust
+179,51791,my child got an award at school and showed it to me,4,3,3,4,1,1,1,1,5,3,1,4,2,5,1,5,2,1,4,1,1,pride
+180,6627,Kids knocking our door for trick or treat,3,4,2,1,1,1,5,1,5,5,1,3,3,5,1,5,1,1,1,1,1,no-emotion
+181,5252,I no longer like my job or the career field I am in,2,4,3,3,3,2,1,2,3,3,3,1,3,3,3,2,4,1,3,4,5,boredom
+182,31241,i had a bad day and my partner surprised me with flowers,5,3,3,5,1,4,1,1,5,2,4,4,2,5,1,4,1,1,4,1,1,surprise
+183,3435,I was shopping with my 5 year old. I went to pick something up from the shelf and when i turned around she was gone. She had run around the aisle and was standing on the other side laughing thinking it was a game.,5,3,4,1,5,4,3,4,4,2,2,5,3,5,1,1,1,1,5,1,3,fear
+184,31090,I felt sadness when my great grandmother past away.,4,1,1,1,4,1,5,1,1,1,1,3,1,5,4,4,1,1,2,2,3,sadness
+185,41906,My friend shared a secret with me.,2,3,1,5,1,2,1,5,4,1,4,3,4,5,1,4,1,1,5,5,5,trust
+186,31274,I felt SURPRISE when my friend kissed me.,5,1,1,5,1,4,4,2,5,3,4,5,5,5,2,2,1,1,4,1,2,surprise
+187,31208,"i felt surprised when i was invited to my girlfriend's house on  my birthday, on getting there i was greeted and surprised with a birthday party that was planned by my girlfriend",4,2,1,5,1,3,1,2,3,1,4,5,3,4,1,3,1,1,5,1,1,surprise
+188,4691,when I make my friends upset.,4,4,3,1,5,5,2,5,1,4,1,4,5,3,1,1,4,4,5,5,4,guilt
+189,51481,i did my work emails today,1,5,5,2,3,2,1,4,4,4,2,3,4,4,4,3,2,1,3,2,2,no-emotion
+190,51753,my son did well in football last night,2,3,2,4,2,1,1,2,4,2,1,3,2,4,2,3,1,1,3,1,2,pride
+191,41811,My work was going through some job cuts which was making me feel very anxious but my manager told me to trust him when he said my job was safe after a few weeks I found out he was telling the truth and that I could trust him on the situation,3,1,1,1,4,4,1,1,4,3,3,1,2,4,4,3,2,1,1,4,3,trust
+192,6471,i brought home my new puppy,2,2,5,5,1,4,3,3,3,5,5,4,4,4,1,5,1,1,4,1,3,joy
+193,6126,"yesterday because I am disabled and housebound, I often have a difficult time passing time without being bored.",3,4,3,2,3,1,3,1,1,2,3,2,4,1,5,4,2,1,1,4,2,boredom
+194,4142,"rumours that were not true, were spread about me.",5,1,1,1,4,1,1,1,5,1,1,2,1,5,3,2,1,1,5,5,2,anger
+195,3327,Earlier this year I found a dead headless bird in my garden,5,1,1,1,5,1,5,1,1,1,1,4,1,1,5,5,2,1,5,5,2,disgust
+196,6547,I go to weddings.,1,5,5,3,3,1,5,1,5,5,1,3,1,5,1,3,1,1,3,3,3,no-emotion
+197,31069,"I feel sadness whenever my parents and I get into a fight and they threaten to kick me out of the house and take away my car that I payed for myself. they gave my brother a free car, they give him anything he asks for, they still buy him clothes and don't make him get a job but I'm somehow always the bad guy in my family.",1,5,5,1,5,5,1,2,5,5,1,3,2,5,1,3,5,3,5,5,5,sadness
+198,41686,I felt surprise when my boyfriend cheated on me,5,1,3,1,5,4,1,3,5,4,1,3,1,5,1,3,5,2,4,5,5,surprise
+199,4934,Boris Johnson pretended he almost died of COVID as a form of clickbait over Easter Weekend.,1,5,5,1,4,5,1,1,5,5,1,1,1,5,1,1,5,5,5,5,2,no-emotion
+200,5787,I was stuck upside down on a fairground ride.,5,1,1,1,5,3,5,3,4,2,1,5,1,5,3,3,5,5,5,5,5,fear
+201,6234,I felt disgust when one of my friends showed me a video of a doctor cutting open a large cyst on someone's shoulder.,4,1,3,1,5,1,1,2,5,4,1,3,3,3,1,4,4,2,3,4,2,disgust
+202,52790,I was not well and my partner needed to look after me.,5,1,1,1,4,4,5,1,1,1,1,3,2,1,5,1,1,1,5,3,1,trust
+203,3326,I looked out my kitchen window to see my next door neighbour dumping her cats litter trays in the bush at the end of my drives.,4,1,1,1,5,3,1,1,5,5,1,5,2,5,1,2,5,5,5,2,5,disgust
+204,52430,I dropped my water bottle on my toe,5,2,1,1,5,2,4,4,1,3,1,5,1,1,5,5,1,1,5,5,2,surprise
+205,61047,I felt trust when I talked about my very mentally abusive relationship with my ex partner to my friend.,4,3,2,3,2,4,4,3,4,2,4,3,4,3,2,4,2,4,3,4,3,trust
+206,51257,Hanging with my bestie.,3,5,3,5,1,2,4,3,3,3,4,4,4,4,2,2,1,1,5,1,3,joy
+207,6310,I felt disgust when my exboyfriend betrayed me. I trusted him and he betrayed me. He claimed to be different and was self-righteous about his perceived morality. It disgusted me that he would be such a liar.,5,3,2,1,5,3,3,1,5,1,1,5,3,4,3,3,5,3,4,3,5,disgust
+208,51388,when I decided to cease speaking with my father,3,5,5,1,5,5,1,1,5,5,1,1,5,5,1,3,5,1,5,5,5,no-emotion
+209,41557,I did not spend enough time with my son on my days off due to catching up on housework. I then saw photos on social media of other families and felt that I should have done better.,1,2,2,1,5,2,1,5,1,2,1,1,1,3,1,2,5,1,2,5,4,shame
+210,3454,"I felt fear when I realized that I'm travelling to NJ tomorrow and it is still facing the repercussions of the flood the other day, so I don't really know what I'm getting into. I'm also worried about socializing with friends and meeting up with friends given that Delta is still going on.",4,4,2,1,4,5,5,1,1,2,1,4,1,5,5,2,4,4,5,5,5,fear
+211,41035,A begger I helped last week wasn't appreciative of my kind gesture.,5,1,4,1,4,4,1,1,4,4,1,2,1,3,1,1,3,3,5,5,5,no-emotion
+212,361,My dog bit me,3,2,5,1,5,5,5,5,1,5,1,4,5,2,1,3,1,1,4,5,5,anger
+213,3503,"I was tired, and my toddler was crying and instead of being patient, I told him he would be okay and hurried him home",4,2,2,1,4,3,4,3,4,2,1,4,4,4,1,2,5,2,4,3,4,guilt
+214,41426,I felt sadness when I came out as a queer woman and had to figure out how that was going to change my marriage of 10 years to a man. I felt sadness for him and for my true life that I don't know if I'll ever get to experience the life I want because I don't want him to feel sadness.,1,3,4,1,5,5,2,3,1,4,1,4,3,1,1,2,5,4,5,5,5,sadness
+215,5792,I couldn’t see my son at the park. I was chatting with another mum when I looked around to check where my son was. For a few moments I couldn’t see him and I panicked and felt intense fear. I looked around more aggressively and eventually I saw him at the bottom of the park playing with friends. It was very stressful but only lasted a minute or two.,5,2,3,1,5,3,4,4,3,4,2,5,1,2,4,1,5,2,5,1,5,fear
+216,4788,i felt jou when i passed my test because i studied really hard for it,4,4,5,2,5,4,4,4,4,4,4,4,5,4,4,4,4,2,5,3,5,joy
+217,5176,"my family member betrayed my trust by telling other family members about a personal circumstance that was happening to me. I was having some health concerns and my family member that I had told in confidence and asked not to relay the information, had decided to tell other members of the family as she felt that this confidentiality agreement did not apply to family.",3,3,4,1,5,3,1,2,4,4,2,2,3,4,2,2,4,3,2,4,4,anger
+218,4699,catching up with a friend who is struggling in our long lockdown and I feel like I haven't been as supportive or available to support her as I could have been,2,4,4,1,4,3,4,2,2,4,2,3,2,4,5,2,3,2,4,2,3,guilt
+219,3238,i felt boredom when i lost my friend,5,2,2,1,5,5,3,1,2,1,1,5,4,5,2,2,4,4,5,5,5,boredom
+220,5324,"I put my child to bed, nothing to do or no one to talk to",2,5,5,1,5,3,3,5,1,5,1,4,2,1,1,2,3,1,2,4,3,boredom
+221,6753,My partner was told he would live.,2,2,1,1,5,5,3,1,1,1,3,5,1,5,5,3,3,1,5,5,5,relief
+222,5508,i felt disgust when my 6 year old little child poured milk all over the floor and on himself when i was not around because i expected him to have outgrown such mischief,4,4,1,1,4,1,1,1,4,1,1,5,5,1,1,1,4,4,5,2,4,disgust
+223,6937,I haven't been able to afford to do something with my children,3,5,5,1,5,4,4,3,3,4,1,4,3,3,4,1,2,1,4,2,5,shame
+224,4652,when I bailed on my little sisters plan to go to the movies. Instead I wanted to relax and play video games at home.,2,4,4,3,3,4,1,5,2,2,2,1,5,1,1,2,4,1,1,5,1,guilt
+225,31418,I had a baby scan,2,4,2,3,3,5,2,2,1,2,3,5,2,3,4,3,2,1,5,1,3,trust
+226,52264,I upset my partner this morning.,5,4,1,1,5,1,1,5,1,1,1,5,4,3,1,1,4,1,5,1,5,sadness
+227,5738,i was involved in a fire,5,1,1,1,5,3,5,1,2,1,3,4,2,3,4,2,2,1,4,2,4,fear
+228,41284,"at work, i made an extreme lapse in judgement which led me to fear being fired. however, i was amazed to learn that i was not going to be fired for this event. i have never felt the feeling of relief as strong as this.",2,5,4,5,2,5,1,5,4,5,1,1,3,4,1,1,5,5,5,5,5,relief
+229,38,"I felt ANGER when someone hit my car a few weeks ago, and then the police listed me as the at fault driver when I am definitely not.",5,1,1,1,5,3,4,1,5,2,2,4,2,4,2,3,4,4,5,4,5,anger
+230,41885,I felt trust when my new girlfriend went away on holiday and kept in contact with me. I was concerned about her however she helped me and ensured I knew she was OK by video calling.,1,1,4,1,5,3,1,1,4,3,2,3,2,4,1,2,1,1,4,3,4,trust
+231,4430,i was in a homeless shelter.,1,5,5,1,5,2,1,1,5,3,1,3,1,3,1,1,4,1,1,5,4,disgust
+232,4125,I was stuck away from home with no ride for over a week longer than planned.,4,2,3,1,5,1,4,1,1,1,1,1,2,4,4,2,1,1,4,5,1,anger
+233,41625,I felt surprise when my father brought home a birthday cake for my mother’s birthday. The cake was beautifully decorated and looked aesthetically pleasing.,2,4,4,3,2,1,5,1,4,4,4,3,1,5,1,1,1,1,4,1,1,surprise
+234,4857,"My mom and stepdad finally said they were getting a divorce and so my mom, sister and I have to move out. I’ve lived in a 9 1/2 feet by 10 foot room for 6 years. One of the walls is outlined from the left wall to the right wall and along the ceiling with thick built in bookshelves and in the middle of where a wall should be, is just a huge window that goes to the floor, and my rooms view is to another wall. People from the kitchen can look into my room from the window and I can see into my sisters room from that window, it’s weird, I don’t have a window I can open in my room cuz it’s literally in the middle of the house so it’s technically a safety hazard. I can’t wait to have a bigger room.",2,4,5,5,1,5,1,1,5,5,5,5,3,5,1,5,1,1,5,1,3,joy
+235,4452,i felt disgust when i got into an argument with my friend becaise they said hurtful things,5,5,5,1,5,5,5,1,5,5,5,5,5,5,1,5,5,5,5,5,5,disgust
+236,41362,I felt Relief when I was doing first aid on a student and their allergic reaction wasn't serious,5,1,1,1,5,4,5,1,5,4,2,5,4,5,5,4,2,1,5,4,5,relief
+237,3874,Hit a home run in kickball because everyone was cheering for me.,2,2,2,5,1,5,1,5,1,2,5,5,5,1,1,4,1,1,5,1,5,pride
+238,51908,"I was abroad on holiday at Disneyland Paris before the first lockdowns and the whole time the pandemic was steadily getting worse and there was rumours that the parks and hotels would close and everyone would have to go home. Each day we woke up and went about our day, not knowing it our holiday would be cut short. This was a stressful time for me as I had always wanted to go to Disney and it was my first ever time and I was going to be gutted if it got cut short. However, we were able to enjoy our holiday and although the park did close, it closed at the end of our very last day there so we were able go travel home as planned, having had our whole holiday and we didn't need to claim anything back on our holiday insurance.",2,1,1,3,4,5,5,1,4,1,5,2,1,4,2,5,4,4,5,4,4,relief
+239,577,my boyfriend didn't help me clean the flat,2,4,4,1,5,4,2,2,5,4,3,4,2,4,1,2,4,2,2,2,3,anger
+240,5289,i was in some work training,1,5,4,3,2,1,1,1,3,5,2,4,2,5,2,5,1,1,4,3,2,boredom
+241,31000,I felt relief when I got my period once because I was afraid I was pregnant.,3,3,3,4,1,2,2,4,4,2,3,4,1,1,3,3,1,1,3,2,3,relief
+242,52559,I was purposed to after only a year relationship,5,1,1,5,1,5,5,5,5,5,5,5,5,5,1,5,1,1,3,1,4,surprise
+243,41787,when my partner and I would openly discuss our feelings and concerns about our relationship during lockdown.,2,1,3,1,5,4,4,2,4,4,3,4,2,4,4,3,4,2,5,3,4,trust
+244,51110,when I got engaged,3,1,3,5,1,5,1,3,5,5,5,5,4,5,1,3,1,1,4,1,3,joy
+245,5296,I don't have enough to keep my mind busy,1,5,4,2,4,2,1,5,2,4,2,2,4,2,3,3,2,1,2,4,2,boredom
+246,7133,moved into my first flat (moving out of parents house),4,2,2,5,4,5,1,5,3,3,5,3,4,3,1,1,1,1,5,1,5,pride
+247,41308,"I requested for an internship at a company that was highly competitive, and was accepted.",4,3,1,5,1,5,5,3,4,2,5,4,2,4,4,4,1,1,3,1,3,relief
+248,432,When I was doing bad in my college classes,3,2,3,2,4,4,4,4,1,4,3,3,4,4,3,4,4,3,4,4,3,anger
+249,52482,"I felt surprise when I won a small amount of money on a lottery ticket. It wasn't a huge amount of money, but I had never won anything before.",5,1,1,5,1,1,5,1,1,1,5,1,1,1,5,5,1,1,1,1,1,surprise
+250,3897,I got the all clear from a health test,1,1,1,4,1,5,4,1,1,5,1,2,1,1,5,1,1,1,5,3,4,relief
+251,41042,I saw my cousin outside cleaning the pool.,1,5,5,3,1,3,1,1,5,5,3,1,3,5,1,3,1,1,2,1,1,no-emotion
+252,6856,I moved to England,5,1,1,1,5,1,1,1,5,1,1,5,1,5,1,1,4,1,5,5,5,sadness
+253,3957,I finish a shift of work as an essential worker during the COVID-19 pandemic.,1,4,4,1,5,1,1,3,3,1,4,1,2,4,1,1,1,1,4,1,5,relief
+254,41403,when I found out I may be on the list for the 3rd COVID-19 vaccine booster in my country. I just want this pandemic to be over.,3,1,4,1,1,4,4,1,1,4,4,2,1,4,4,4,1,1,1,1,1,sadness
+255,431,When my boyfriend's boss dismissed him,2,2,2,2,4,2,1,2,4,3,2,2,2,2,4,3,4,1,1,2,1,anger
+256,4860,Because i got a chance to part take this survey to earn a bit of cash,4,5,4,5,1,1,4,5,1,4,5,3,5,1,1,4,5,1,5,1,4,joy
+257,584,"I was trying my hardest to win a competitive video game, but my team mates weren't pulling their own weight.",5,5,5,1,5,1,4,1,5,4,1,3,1,5,3,5,3,2,4,4,4,anger
+258,52355,I felt shame when my manager critiqued a project I had worked hard on.,4,2,2,1,4,4,1,3,3,4,1,3,3,4,1,3,3,1,4,2,3,shame
+259,51718,I got married to my partner.,1,1,3,5,1,4,3,4,4,4,4,3,4,4,1,3,1,1,4,1,4,pride
+260,31261,my mum was diagnosed with terminal cancer,5,1,1,1,5,5,5,1,1,1,1,5,2,2,5,1,5,3,5,3,5,surprise
+261,51844,I went to the dentist and I didn’t need any work done,3,3,1,4,3,3,3,3,3,3,3,3,3,3,2,2,1,2,3,3,1,relief
+262,4963,"I felt no particular emotion when my roommates boyfriend left for ireland. He was someone I was quite good friends with in the past, however in recent years he has shown his true colours. I was not happy nor sad to see him go and it was just a feeling of life continuing as per usual.",1,1,5,3,3,1,1,1,5,3,1,1,1,5,1,5,2,1,1,1,1,no-emotion
+263,5128,I was in a protest and the police were pushing us and shouting at us and being aggressive,4,1,1,1,5,4,2,2,5,2,1,4,1,5,2,2,5,5,5,5,5,anger
+264,51620,My daughter did brilliantly for her first dance exam,4,2,3,4,3,1,1,1,1,3,4,4,1,4,2,3,1,1,1,1,1,pride
+265,41230,I felt relief when I found my lost dog because he was a security blanket for me,5,1,1,1,5,5,4,1,1,3,1,5,3,1,1,1,2,1,5,1,5,relief
+266,51991,i scroed a 5/5 for a quiz i had not done the required reading for because i thought i would fail,4,3,3,4,1,4,4,2,1,2,5,3,3,1,4,4,2,2,3,2,1,relief
+267,52314,when I got myself in thousands of pounds worth of debt and my sister found out.,4,1,4,1,5,5,1,5,1,5,1,2,2,4,1,4,3,1,5,5,4,shame
+268,51771,I got a complimentary review of my work,5,2,1,5,1,4,5,3,4,1,5,1,1,5,1,5,1,1,1,1,1,pride
+269,51677,I had set myself a practical and emotional challenge of cycling 1000 miles during the last lockdown,4,4,4,4,2,3,2,4,1,3,4,2,4,1,2,2,2,3,4,2,4,pride
+270,52405,ate my partner's dinner leftovers,3,3,3,4,2,2,1,5,3,3,1,2,3,1,1,2,1,2,1,2,1,shame
+271,6818,I felt sadness when my dad left,5,1,1,1,5,5,1,1,5,5,1,3,1,5,1,1,3,4,4,1,4,sadness
+272,6966,"when i was young, it is a memory that stays with me, i was on my ride on toy and i was playing in the street, i fell off my toy and rolled over and the pople on the street (adults) laughed at me which made me feel shame.",5,2,1,1,5,2,3,5,1,1,2,4,1,1,3,2,2,1,1,3,1,shame
+273,6335,I saw a scary movie last night.,5,4,2,2,4,3,3,2,3,4,2,4,1,5,2,2,4,4,4,4,4,fear
+274,5250,I was working and I was stood directing people,2,4,2,1,5,2,3,2,3,4,2,2,3,4,1,2,1,1,2,1,1,boredom
+275,5404,waiting at gymnastics for my kids lesson to be over,1,5,5,2,4,1,1,4,4,5,1,4,1,1,1,5,1,1,2,5,2,boredom
+276,5617,a director at work sent a very mean passive aggressive email targeting one of my employees,5,2,2,1,5,4,1,2,5,2,2,5,2,5,1,3,5,2,5,3,5,disgust
+277,3792,Investing 5 grand,1,1,5,5,1,5,1,5,1,5,4,1,5,1,1,5,1,1,1,1,1,pride
+278,52429,covid19 happened globally,3,1,1,2,5,3,5,1,1,1,1,5,1,5,5,3,3,5,3,4,3,surprise
+279,6318,my dad picked me up from the airport late at night during a snowstorm and we came very close to colliding with a transport truck that was blocking one of the lanes.,5,1,3,1,5,5,4,1,5,5,1,5,1,5,2,1,2,2,5,5,3,fear
+280,6678,I felt pride when I got a payrise at work,4,2,2,5,1,5,1,5,1,1,4,4,1,5,1,1,1,1,5,1,2,pride
+281,6464,"My stepson tripped and fell, and his immediate reaction was to run past his (biological) grandparents and straight to me for comfort. Not that I felt joy that he tripped, obviously, but it was just this turning point where I knew that I truly was a source of comfort for him and he actively sought me out in a sea of other people to make him feel better. It was that first point in time where I knew all the effort I had been putting in, really did come through. Does not get more pure joy than that.",5,1,1,5,1,3,5,1,1,1,3,5,1,1,5,5,1,1,5,1,1,joy
+282,51260,i won a game of smite,2,4,2,2,3,1,1,4,1,3,3,3,2,3,2,2,3,2,3,3,3,joy
+283,4676,"i accidentally once ripped a page in a bible while at mass. as a religious and anxious person this made me feel guilty as it was destruction of property, and in a holy place of worship.",5,1,1,2,5,4,1,5,1,5,1,1,1,1,1,3,5,5,5,4,3,guilt
+284,346,I fell behind in homework for school,5,2,3,1,5,4,1,5,1,4,1,5,4,1,1,4,3,1,5,1,5,anger
+285,6620,I felt no particular emotion when I went to pick up my grandad with my mum from the hospital and then drive him home. Mum was the one driving and I was in the back seat minding my own business. We then drove him to his house and dropped him off.,3,3,5,3,2,2,1,1,1,3,1,3,1,2,4,3,1,1,2,3,1,no-emotion
+286,6883,When i was fired from a job that was  really close to my home,2,1,3,1,5,5,1,5,1,5,1,5,1,5,1,5,1,1,3,1,4,sadness
+287,31125,I almost gave someone COVID.,5,2,1,1,5,3,1,5,1,4,1,4,1,1,5,3,5,1,4,4,4,shame
+288,4733,When I got a new personal best max lift at the gym.,4,4,4,5,1,4,2,5,2,3,5,1,4,1,1,4,1,1,5,1,2,joy
+289,31085,I discovered on Instagram that I was being cheated on,5,1,1,1,5,3,3,4,5,4,1,2,1,5,2,3,5,5,5,5,5,sadness
+290,52140,My hamster died.,3,1,4,2,4,4,5,1,1,4,1,1,1,1,4,4,1,1,2,3,4,sadness
+291,5169,a member of staff was upset at work due to other staff members behaviour. That staff member was made to feel like they weren't appreciated and that they were about to be told off for something that wasn't there fault.,4,4,4,1,5,4,1,1,5,4,2,3,4,2,1,2,4,3,4,3,4,anger
+292,31123,When I dated someone I regret sleeping with because they were not my type and I settled.,2,5,4,1,5,5,1,5,5,5,1,1,5,5,1,1,5,5,1,5,5,shame
+293,52360,When my dad scolded me,5,4,1,1,5,4,1,3,4,4,2,1,1,5,1,1,5,1,4,5,5,shame
+294,6668,I watched my daughter count up to 12 (in front of her Grandma) when simply moving magnets from one fridge to another,4,4,1,5,1,3,2,1,5,2,3,1,2,5,2,1,1,1,5,1,3,pride
+295,6840,"I went through a round of IVF, taking medication for 2 months, having surgery that left me unwell and I got a negative pregnancy test at the end of it!",3,2,2,1,5,5,2,1,1,4,5,1,2,2,4,1,5,1,3,3,5,sadness
+296,5398,my spouse was away in Europe and I was home alone for two weeks.,2,4,5,2,4,3,1,2,4,3,1,1,4,1,1,2,1,1,1,3,3,boredom
+297,7201,I felt SURPRISE when I returned home one day recently to find that a neighbour had dramatically trimmed many of our fence-line trees and had dumped them in our garden without any discussion or warning.,4,1,1,1,5,1,3,1,5,2,1,5,1,5,1,3,5,5,5,4,5,surprise
+298,5358,i missed my freshers event and had to stay at home alone all day,1,5,4,1,4,1,5,1,1,4,1,1,1,1,4,4,1,1,1,3,2,boredom
+299,41567,I couldn't control urges and ate when on a diet.,4,5,4,3,3,1,2,5,1,4,1,1,3,1,4,4,5,1,1,5,1,shame
+300,41836,when I asked my supervisor to nominate me for an award.,4,2,4,2,4,5,1,5,3,5,5,3,2,5,3,4,1,1,2,3,3,trust
+301,41500,"i spent all of my money on things i don't need such as fast food, McDonalds and then i realize later that i could have used that money on things i needed: phone bill, hygiene products, and wants that could have last longer than food.",1,4,5,3,2,2,1,5,1,2,2,4,5,1,1,3,1,1,1,2,1,sadness
+302,3286,roommates leave molding food in the sink.,4,2,2,1,5,2,1,1,5,2,2,5,4,4,1,2,5,5,4,5,4,disgust
+303,3116,I wasn't promoted to a supervisor role over a colleague who just started,5,1,3,3,3,2,3,2,4,4,2,1,1,5,1,5,4,1,1,5,1,anger
+304,767,I felt JOY when I went biking the other day and was able to accomplish a bike related goal of mine.,3,1,3,5,1,1,1,5,1,4,5,4,4,1,1,3,1,1,5,2,4,joy
+305,31348,when my boyfriend and I had an argument but he still reassured me that he loves me etc.,2,3,5,1,4,5,1,5,3,4,1,4,4,4,1,1,2,1,5,4,5,trust
+306,4429,I was lied to by a close friend,5,1,1,2,5,5,1,1,5,1,1,1,1,5,1,1,5,1,5,5,5,disgust
+307,5812,"When cruising on my narrowboat I hit a silt bar and the boat tipped up a lot, and I thought it was going to sink.",4,2,3,1,4,4,5,2,1,1,1,5,5,1,4,5,1,1,5,2,4,fear
+308,51711,"One moment I felt pride was when I was an NCO in my cadets squadron, and I was issuing commands to the new recruits. Being able to be in such a position made me feel immense personal growth and responsibility.",2,4,5,4,2,4,1,3,4,2,3,5,5,5,1,2,3,2,4,2,5,pride
+309,246,I see racism,3,4,4,2,4,2,1,1,5,2,1,5,2,5,1,2,5,5,4,3,3,disgust
+310,537,"The guy next door blocks my drive for hours for no reason, he has a driveway too",4,4,3,1,4,2,1,1,5,3,2,1,1,5,1,3,4,4,2,3,2,anger
+311,41449,"My older dog at the time went to the bathroom in the house but not only that, there was blood mixed with it. My family knew something had changed with her more recently, like it was harder for her to stand up, so she would end up staying in the same place for very long periods of time and her eyes began to sink in her skull. That’s when we knew it was coming close to her time.",2,5,5,1,5,3,5,1,1,5,1,3,2,1,5,3,3,1,5,4,4,sadness
+312,4727,when I got the awesome job I applied for.,4,2,3,5,1,5,3,4,3,4,5,4,4,4,1,5,1,1,5,1,4,joy
+313,31094,My daughter died,5,1,1,1,5,4,5,1,1,3,1,5,1,1,5,1,1,1,5,5,5,sadness
+314,52194,I felt an unexpected overwhelming sadness when I handed my car of 17 years over to a scrap dealer! My car was in perfect working order except for a rogue engine warning sensor which made it fail its MOT. It would have cost me in excess of £3000 to replace as it meant removing the engine to reach it. My car was deemed valueless so I had to pay to have it scrapped. This made me sad as it was a daily memory maker of the good times my children and I had had throughout their childhood.,4,2,1,1,4,1,3,1,1,1,1,1,3,1,4,3,4,1,4,2,1,sadness
+315,334,somebody stole my jacket,4,2,4,1,4,2,3,4,5,3,1,4,2,4,1,5,4,5,4,2,4,anger
+316,4147,I felt anger when I was thrown out of the house I lived in by my mother.,5,3,2,1,5,3,1,2,4,1,1,5,1,5,1,2,4,5,4,4,3,anger
+317,5622,when I was out walking my dog as someone else was also out with their dog and let their dog approach mine without asking any questions. I was disgusted and angry as my dog does not like other dogs so this could have been a dangerous situation.,5,3,3,1,5,3,1,1,5,4,1,5,3,5,1,1,1,4,5,1,5,disgust
+318,2199,I realized I had manged to save and additional 1000 in my savings,4,4,3,4,1,3,1,5,1,1,5,1,4,1,1,5,1,1,3,1,1,surprise
+319,51545,I completed my first rug I made and felt nothing much,2,2,5,2,2,1,1,5,2,2,4,2,4,2,2,1,1,1,3,1,2,no-emotion
+320,5228,I felt angry when my long term relationship broke down after the birth of my daughter. I felt let down and upset.,5,1,1,1,5,5,1,1,5,5,1,1,1,5,3,5,5,4,2,5,5,anger
+321,51482,I made a nice meal and spilled half of it in the sink,5,4,1,1,4,1,3,4,1,1,1,4,1,1,3,5,1,1,4,3,3,no-emotion
+322,4601,I was sick with covid 19,5,2,1,1,5,4,5,1,3,4,2,5,1,1,3,3,2,1,4,4,5,fear
+323,52205,i stopped communication with former friends because of my lifestyle choices.,3,1,5,1,5,1,1,5,1,4,1,3,5,1,1,1,1,5,3,5,5,sadness
+324,61081,I showed a friend of mine around my hometown,3,3,4,5,1,3,4,4,4,3,4,3,5,5,3,5,1,1,4,1,4,trust
+325,5976,My brother got in trouble for something I did,4,5,5,1,5,5,5,1,5,5,1,5,5,5,1,1,5,5,5,1,5,guilt
+326,6765,Being able to pay rent on time when being unemployed,1,1,2,4,2,3,1,4,2,3,3,4,4,4,2,3,3,1,5,2,5,relief
+327,4989,"The time I was forced to resign from my job in 2012. I lost a key that belonged to a client which was a pretty big deal. As a consequence, I was called up to the big office where I had to do the paperwork for my resignation. I remember throughout the process that I felt no emotion towards the ordeal. It was like that I knew everything was going to be ok despite the fact that there was a real possibility of becoming homeless since I had very little savings at that time. I can only describe it as like an almost zen-type aura was over me yet cool as the other side of the pillow.",2,1,3,2,3,5,1,5,2,4,3,3,2,4,3,4,3,2,4,2,4,no-emotion
+328,3749,I felt no particular emotion when hearing news of covid restrictions because I am used to it,4,4,4,2,3,4,4,1,2,3,3,2,1,5,4,3,2,3,4,3,2,no-emotion
+329,331,i was punched,5,5,5,2,4,4,1,5,5,5,3,5,4,5,1,4,2,1,5,1,5,anger
+330,51397,Chilling on the sofa,1,5,1,5,1,1,1,5,1,1,2,2,3,1,1,4,1,1,1,1,1,no-emotion
+331,3356,"I was in the emergency room with a broken arm.  I had been waiting for hours to be admitted to a room, I had been awake since about 3am, I was hungry and dehydrated, I wasn't allowed food or drink since I was expected to go into surgery later that day, and of course I was in extreme pain.  I had a makeshift sling which barely held my arm together, I mostly had to hold it with my other arm.  My nose had become congested and I was sniffling a bit.A women seated nearby demanded I walk over to the nearby washroom an blow my nose, despite needing to hold my arm in place and having difficulty moving/walking without incredible pain.I explained my situation and sarcastically apologized for the offensive noise my nose was making.",4,2,3,1,5,2,5,4,5,3,1,5,4,5,4,4,5,2,4,3,2,disgust
+332,5424,I was at a hospital appointment and they were running very behind and it was very boring just sat around in the waiting room with nothing to do.,2,4,2,1,4,2,4,1,4,2,2,2,1,4,3,4,3,1,3,4,2,boredom
+333,4309,when waiting for threbus to arrive,3,5,4,1,4,2,1,1,5,4,1,3,1,5,1,5,3,1,4,2,3,boredom
+334,41315,I felt relief when I took a Covid test on the day before my graduation and it was negative. I was relieved as if it was positive I wouldn't be able to attend my gradation the next day.,2,4,5,3,3,5,2,5,1,5,4,3,1,1,4,3,1,1,4,2,2,relief
+335,52148,When I Miscarried,5,1,5,1,5,4,5,5,5,4,1,5,1,1,1,1,3,1,5,5,5,sadness
+336,52884,I felt trust in myself when I applied to jobs this past summer because I had to trust myself and my abilities to know that it would all work out in the end.,1,4,5,1,4,5,1,5,1,4,3,4,5,1,1,4,1,1,5,2,5,trust
+337,6597,When I found out a colleague was fired,4,2,4,1,1,1,1,1,5,4,1,1,1,5,4,5,1,1,4,1,1,no-emotion
+338,3626,I was approached by manager and told I was doing well in my job and got a significant raise,5,3,2,5,1,4,1,5,2,3,5,2,2,4,1,1,4,1,4,1,2,joy
+339,5427,During lockdown,3,1,1,2,4,3,4,1,2,2,2,4,4,4,4,4,3,1,4,3,4,boredom
+340,31249,"I travelled abroad for the first time and went to Florida and was surprised with how different the air smelt, it was very humid and had a strong plant smell, like I'd imagine a rainforest would smell",5,1,1,5,1,1,4,1,1,1,1,1,1,1,5,5,1,1,2,1,1,surprise
+341,41221,"I felt RELIEF when I started training the new girl and she was cool and fit in with me and my other coworker. The team is really divided and full of bullies, so I was glad when we had another sane person to vent to.",2,4,3,4,2,4,4,4,4,3,4,4,4,4,2,4,1,1,4,1,4,relief
+342,3569,I got with my partner,2,2,5,5,1,5,4,4,4,5,5,4,4,4,1,4,1,1,4,1,5,joy
+343,41580,I felt shame when I had to cancel plans because I realized I had promised other plans shortly before the former was supposed to happen.,4,2,2,1,5,5,2,4,1,1,3,4,3,1,1,4,4,1,3,1,1,shame
+344,4440,I felt disgust because of swallowing important pills because I have problems where I am aware they are on my tongue. I have been unwell so this is a problem right now.,3,3,3,1,5,2,3,4,1,3,2,4,3,1,3,3,1,1,5,4,3,disgust
+345,52099,"I felt sadness when I moved abroad to study, and my boyfriend had to go back home, knowing I wouldn't see him for months.",1,2,5,1,5,4,3,3,2,5,3,3,3,3,1,2,4,1,2,2,5,sadness
+346,4253,"I attended a lecture on the impacts of international trade on UK SMEs, which was hosted by a particularly monotone gentleman who spent most of the time speaking with his eyes closed. The content and delivery of the talk combined to the point that I and many others could not concentrate and I held my attention by drawing and entire tattoo sleeve onto my left arm with my pen.",1,3,5,1,5,4,1,3,5,3,4,2,2,5,1,3,3,1,3,4,4,boredom
+347,52166,when I got into a car crash,5,1,1,1,5,5,4,2,3,1,1,5,4,2,4,1,5,1,4,1,5,sadness
+348,6459,"I felt joy when I took a long bike ride in a park in my city. I biked through orange and yellow trees, and the sunlight slanted through the branches as it got closer to sunset. The air was crisp and fresh to breathe, and all of these combined made for a very joyful experience.",1,4,5,5,1,1,2,5,2,4,5,3,5,2,1,2,1,1,1,1,2,joy
+349,51507,I visited the silverstone race track to watch the qualifiying event with my husband a few years ago,2,1,2,4,3,2,2,4,5,3,3,1,1,2,1,4,2,1,4,1,2,no-emotion
+350,41441,I felt sadness when I bumped my car into a lamppost,5,1,1,1,5,1,1,5,1,1,1,5,5,1,1,1,4,4,5,4,4,sadness
+351,3720,I made coffee this morning,1,5,5,4,1,1,1,5,1,4,4,1,5,1,1,2,1,1,2,1,2,no-emotion
+352,4507,i felt scared when walking through a dark park alone because i was not aware of my surroundings fully and i didnt know who else was there.,2,1,1,1,4,1,3,2,1,1,1,2,3,2,1,2,1,1,4,4,4,fear
+353,52787,my friend told me a secret and asked me not to tell anybody else,2,3,2,3,1,2,1,4,4,4,3,5,3,4,1,3,1,1,5,4,1,trust
+354,4394,I felt disgust when I discovered my parents being unfaithful,3,1,4,1,5,5,1,1,5,5,1,5,2,5,1,1,5,5,5,5,5,disgust
+355,52545,I got a new job,1,1,1,5,1,5,5,5,1,1,5,5,5,5,5,5,5,1,5,1,5,surprise
+356,7123,"I felt pride when my son (13), who has always feared being bullied called his teacher aside and explained his feelings to her about an incident where she embarrassed and singled him out. He acted so maturely and confident. I was so proud of his emotional intelligence",5,1,1,5,5,1,1,1,5,2,5,5,1,5,5,5,1,1,3,1,1,pride
+357,3993,We successfully purchased our house.,2,1,2,4,2,5,3,3,3,2,2,4,3,3,3,3,2,1,5,2,4,relief
+358,4219,I felt BOREDOM when we missed our connecting flight at the airport because our first flight was delayed,4,1,2,1,4,3,3,1,2,2,1,4,1,5,3,2,4,1,3,1,2,boredom
+359,4966,I felt no particular emotion when i slept with someone and turned up at my boyfriends house,5,3,4,5,1,4,1,5,5,4,1,1,5,5,1,3,3,5,1,3,3,no-emotion
+360,5896,I felt fear when i was walking alone in the dark,1,5,5,1,4,4,3,4,2,4,1,1,1,2,5,3,3,3,4,4,2,fear
+361,4250,"Started a new job and was told I'd be doing a lot more than I actually do, so due to this 90% of the time I am bored at work.",2,3,2,3,1,3,1,1,1,5,1,1,1,5,5,2,3,1,5,5,1,boredom
+362,4602,I felt fear at a point in my life when I thought I had lost everything I ever worked for,5,1,1,1,5,5,5,1,1,3,5,5,1,5,5,5,1,5,5,5,5,fear
+363,52363,Of my actions while being drunk,2,5,5,3,3,1,1,5,1,4,1,1,5,1,1,5,3,4,3,4,3,shame
+364,3694,I served an elderly customer in the shop,1,5,4,4,1,2,2,2,5,4,3,4,5,2,2,5,1,1,4,1,2,no-emotion
+365,5795,I felt fear when I was choking on a piece of chicken,5,3,2,1,5,1,2,3,1,2,2,5,2,1,3,3,2,1,5,2,4,fear
+366,3209,I left home for the first time to live alone,3,4,3,3,2,4,4,4,3,3,3,4,3,3,4,2,4,3,4,3,4,boredom
+367,52810,I was asked to be a stand in player at my university netball game,4,3,1,4,1,3,5,2,3,2,2,2,3,3,2,3,2,1,5,2,1,trust
+368,5793,I was in an earthquake,5,1,2,2,2,2,1,1,2,3,1,2,2,2,1,1,2,3,2,2,2,fear
+369,2215,I felt TRUST when my friends helped tidy my room whilst i was in hospital,5,4,1,1,5,4,4,5,2,2,1,5,1,5,1,2,4,5,3,2,5,trust
+370,5216,my housemate shamed me for what I was wearing,4,2,2,1,5,2,1,2,5,2,1,4,2,5,1,3,5,2,4,4,3,anger
+371,41332,when I finally got the notice i would receive enough money from my student loans because my father would not give me his information and i wasnt sure if i could actually receive them. without them i would not be able to go to university,1,2,3,1,5,5,1,1,5,3,3,4,1,5,1,1,1,2,3,4,4,relief
+372,3296,I was at work and was confronted with a very aggressive and rude client who would not calm down. Eventually the situation had to be de-esculated by senior management as she was becoming very threatening.,4,2,2,1,5,2,4,1,5,2,3,3,2,3,4,4,5,5,5,1,5,disgust
+373,615,I got into an argument with my spouse.,4,4,4,1,5,3,2,5,3,4,2,4,4,4,3,4,4,5,4,5,4,anger
+374,3588,I felt joy when I went to the beach recently with my boyfriend on a beautiful day and had ice cream and just relaxed together on a bench after walking along the boardwalk. We people watched and it was just a very calming and nice experience where I did not feel any stress and was truly happy.,1,2,2,5,2,1,3,4,4,1,3,1,4,4,4,1,1,1,2,1,1,joy
+375,51130,I felt joy today. I am currently on a novel-writing course and had a tutorial with my teacher and she said she loved my writing and that she really enjoyed it.,1,3,5,5,1,3,1,4,4,3,4,4,4,4,4,5,1,1,4,1,2,joy
+376,4563,when I found a spider in my bathroom,5,4,2,1,5,2,4,1,1,3,1,5,1,4,5,5,1,1,4,1,3,fear
+377,52085,I lost a friend,3,2,1,1,5,4,4,1,3,3,1,1,1,1,3,3,2,1,3,4,4,sadness
+378,41622,I felt surprised when my supervisor offered me a part time position following my term.,4,2,2,5,1,5,1,5,2,3,4,3,4,5,1,5,1,1,5,1,1,surprise
+379,4849,I felt joy when I went for a walk in the park with my family and we sat down enjoying the view while having a picnic.,3,3,4,4,1,1,1,3,4,3,3,1,3,3,1,3,2,1,1,1,2,joy
+380,51891,"When I finally got my wisdom teeth removed. I was in pain from them for so many years and I finally had the money to get it done and to not have that pain anymore, it is a relief everyday.",1,1,5,5,1,5,1,5,1,5,5,1,1,5,1,5,1,1,4,1,2,relief
+381,31075,I felt sadness when my grandmother passed away,2,1,3,1,5,3,1,1,1,2,1,2,1,1,5,2,1,1,4,2,5,sadness
+382,41904,I felt trust when I arrived home from a weekend away and my partner completing many of the tasks I asked and then some. I trust him very much and never worried that anything would happen but now I know I can trust him to do even more.,2,4,2,5,1,4,4,2,5,2,3,5,3,5,3,4,2,1,2,1,1,trust
+383,3755,I watch most television programs.,1,5,5,3,2,1,1,1,1,5,3,1,1,1,1,1,1,1,4,1,1,no-emotion
+384,3746,I felt no particular emotion when I got my certificate from college.,1,4,4,1,5,3,1,5,3,2,3,2,1,3,3,4,3,1,4,5,3,no-emotion
+385,3166,I was athome and my son had gone away for the weekend,3,2,3,2,4,3,3,3,3,4,2,3,3,3,3,3,3,1,1,2,1,boredom
+386,4559,I did not prepare adequately for my project defense and I was to present in front of everyone.,3,2,4,1,5,3,1,4,1,5,1,4,3,3,2,4,3,1,5,4,4,fear
+387,41676,when my mother told me we would be going on vacation to Cuba for my 17th birthday.,4,2,1,5,1,2,1,2,5,2,4,3,2,5,2,3,1,1,3,1,2,surprise
+388,3591,I felt JOY when I was able to move into an apartment with my boyfriend and bring my cat with me.,5,1,5,5,1,5,1,4,4,5,5,5,5,3,1,5,1,1,5,1,5,joy
+389,52421,When I discovered that my friend gossip about me,5,1,1,2,1,1,1,1,1,4,5,5,4,4,5,3,5,5,5,5,5,surprise
+390,3539,I felt joy when I received the acceptance letter to my dream university,3,4,3,5,1,5,1,5,1,5,5,3,1,5,1,5,1,1,3,1,1,joy
+391,3821,my daughter did great in her GCSE's,1,1,1,5,1,1,1,1,5,2,1,5,1,4,1,1,1,1,2,1,2,pride
+392,5531,"I felt disgust when I saw a man in the town centre urinating in the street, this is because it was broad daylight and it was disgusting behaviour.",4,2,2,2,4,1,4,1,5,2,1,1,1,4,1,1,1,4,1,2,2,disgust
+393,6172,I had to work in the office in my finance job.,1,5,5,1,5,3,1,5,5,5,3,3,2,5,1,4,5,1,5,4,5,boredom
+394,4233,I felt boredom because I had finished watching a TV series and couldn’t find anything else to watch,4,4,5,3,3,1,5,5,1,5,3,1,5,1,5,5,1,1,1,4,1,boredom
+395,52693,I got my COVID vaccine,2,2,1,3,1,1,1,1,1,1,5,3,3,5,4,3,1,1,4,1,1,trust
+396,3870,I felt pride when I received a rare award from my organization because I felt like I was valued and that made me take more pride in my work.,2,1,1,4,1,3,1,4,4,1,3,2,3,5,1,3,2,1,3,1,2,pride
+397,41807,"when I told y friend, Jeremy a secret I had kept in a long while. A series of events occurred that made my mum to probe him to find out some information. He disclosing this to her positions him to let this secret out. However, when my mum spoke to me ; I was somewhat worried that she might have come to the knowledge of the secret I shared with my good friend.  This turned out not to be. I really came to trust Jeremy very much and know that he is not only a friend, but a brother and confidante and that he always has my back no matter what.",2,3,1,1,4,4,2,3,5,3,2,3,2,3,4,2,3,2,4,4,5,trust
+398,52042,"My mum received surgery for cancer, they thought they had collected all infected lymph glands",5,1,1,1,5,5,5,1,1,1,1,5,1,5,5,1,5,3,5,5,5,relief
+399,7107,I've spent a day gardening and my garden looks great,1,5,5,5,1,4,1,5,1,5,5,4,5,2,2,4,1,1,4,1,3,pride
+400,6117,Stuck on a 10hr flight to China,1,5,5,1,3,1,1,1,1,5,1,1,4,1,1,5,1,1,1,5,3,boredom
+401,51904,my sister helped me to pay my rent when I was struggling for money due to being unemployed.,1,4,5,5,2,5,1,5,5,4,2,5,5,5,1,2,4,2,5,2,4,relief
+402,5438,I felt boredom when my friend cancelled on me for a meal.,5,5,1,1,5,1,1,1,1,5,1,5,1,1,5,5,5,1,5,5,1,boredom
+403,41176,I felt pride when I went for a job interview and was offered 2 different positions on the spot.,5,1,1,5,1,4,3,4,4,1,5,5,4,5,1,3,1,1,5,1,5,pride
+404,6823,I think about my financial future,1,3,5,1,5,5,4,2,4,4,1,1,1,5,5,2,4,1,5,5,5,sadness
+405,52722,I trusted my school counsellor when going through a bad time,1,5,5,5,1,5,1,5,5,5,5,5,5,5,1,5,1,1,5,1,5,trust
+406,6512,I first found out about my birthday trip. My mom and step mom are taking me out of town and I'm very excided for it,5,3,1,5,1,5,1,1,4,4,5,5,5,5,1,1,1,1,4,1,4,joy
+407,6979,I got a payrise at work and a promotion,4,3,2,5,1,4,1,4,4,1,3,3,2,5,1,1,1,1,4,1,3,surprise
+408,5866,"I had abseiled down a rock face which involved changing from one rope to another, and I realised that my safety line was wrongly attached and would not have prevented me from falling.",5,1,4,1,5,3,1,5,1,1,1,5,4,1,1,1,5,1,5,3,5,fear
+409,5436,having to listen in on a work webinar on a topic that did not pertain to me,2,5,5,2,4,1,1,1,5,3,1,3,1,5,1,5,1,1,2,4,2,boredom
+410,41379,my dad passed away,5,1,5,1,5,5,5,1,1,5,1,5,1,1,5,1,5,1,5,5,5,sadness
+411,3501,"When I was a little boy my mother had a birthday party for my brother he was going to be five years old, I was seven at the time. One of my brothers friends was at the party and started to play with a toy truck of my brothers. I grabbed it from him and told him it is not yours it's my brothers leave it alone. The very next day my mother told me that that same little boy that I yelled at was hit by a car and died. I have and never will forgive myself for the way I treated that little boy. I wish i could go back and change the way I acted. I am so ashamed. It has haunted me since and I am now 65 years old.",5,1,1,1,5,1,1,5,1,1,1,1,5,1,1,1,1,5,1,3,1,guilt
+412,51393,I was sick in traffic on the way home from work,3,3,3,2,3,1,3,1,1,5,2,3,1,1,2,5,1,1,4,3,1,no-emotion
+413,52852,a friend made a reservation at a restaurant I have never been to and it turned out great,2,4,4,5,1,2,1,4,5,4,4,3,4,5,1,4,1,1,3,1,2,trust
+414,4712,I felt Guilt when I lied to my distanced friend about my relationship status,4,1,4,1,5,1,3,2,4,2,3,4,5,3,1,4,3,5,5,1,2,guilt
+415,31366,I felt trust when my family took care of me after a medical procedure.,1,4,4,1,5,5,5,2,1,4,5,4,3,5,5,4,2,1,4,4,5,trust
+416,6962,I felt the feeling of shame when I was arrested as a teenager,5,1,3,1,5,5,1,5,3,1,1,4,3,3,1,1,5,5,3,5,2,shame
+417,5369,when our computer systems at work crashed for the day but our boss made us stay in work with nothing to do,4,3,3,3,3,2,3,1,3,3,2,3,2,4,4,4,3,1,3,3,2,boredom
+418,51212,I felt joy when I stayed at my aunties and the pup would come and jump on me on the sofa,2,5,5,4,2,1,1,2,5,5,4,1,3,5,1,5,1,1,4,1,2,joy
+419,5511,I felt disgust when someone I knew was driving around in her parent's car. The car had a disabled badge but neither parent were able to use the car or badge any longer. This person took great delight in parking in disabled spaces evertime she drove the car and could not see why it was a problem. She was not disabled,3,1,3,1,4,2,3,1,5,4,1,4,1,1,1,2,5,5,3,3,4,disgust
+420,31058,I learned that my ex boss had passed away.We had our differences; but overall I respected his tremendous work ethic and friendly personality.,5,4,1,1,5,4,3,1,1,4,1,4,1,5,5,3,4,1,4,5,4,sadness
+421,4315,i was bored watching a film called peter pan and this is because i seen it 6 times already this was on the 19/9/2021.,3,5,3,3,4,3,2,3,3,3,3,4,4,3,4,4,3,3,4,4,5,boredom
+422,4439,My shoes are wet and I stepped on mud while trying to get out of the my back yard,4,5,3,1,5,3,2,4,1,3,4,3,2,4,4,3,3,1,2,2,3,disgust
+423,5372,"i go to my parents house, because all they do is watch television",1,5,5,2,3,1,1,2,4,4,1,1,3,3,1,5,4,1,1,1,1,boredom
+424,41238,I felt relief when I did well on a chemistry test I was certain i had failed.,5,3,2,5,1,2,1,5,3,2,5,2,4,4,1,5,1,1,3,1,2,relief
+425,3381,i found out that my partner was pregnant.,5,1,3,3,3,5,5,5,5,5,3,1,1,3,1,2,4,1,5,1,4,fear
+426,5847,I have a huge fear of spiders and last week a giant housespider ran out from underneath my TV.,5,5,1,1,5,1,4,1,1,1,1,5,2,2,5,5,1,1,4,1,5,fear
+427,51385,When giving my children breakfast then cleaning up after them.,1,5,5,3,2,1,1,5,3,3,2,3,4,3,1,3,1,1,3,1,3,no-emotion
+428,3719,I felt no particular emotion when I was given the Pfizer vaccine because it was insignificant to me.,1,2,5,3,1,2,1,5,1,5,5,1,1,5,5,5,1,1,2,1,1,no-emotion
+429,51937,my dog's lumps were said to be fatty cysts as opposed to cancer during a vet checkup.,3,1,1,5,2,3,4,1,1,5,1,4,1,1,5,1,1,1,5,2,3,relief
+430,31104,My boyfriend left for Australia,1,2,5,1,5,5,2,2,4,4,2,1,2,4,4,1,4,1,4,4,5,sadness
+431,41728,i got a surprise when i open the door and my mum was standing there as i not seen her for 14 years as she walked out of my life to be with another man and i was surprise she would ever get in touch with me again,4,5,3,3,5,4,4,1,5,3,3,4,3,4,3,3,3,2,3,5,5,surprise
+432,41368,"I didn't have to answer a call on wednesday because it's been rescheduled, so I have time to calm myself down",5,2,1,1,5,5,1,3,5,1,4,4,1,5,1,3,1,1,4,4,4,relief
+433,52101,My grandmother passed away,2,2,3,1,4,3,5,1,1,3,1,3,1,1,5,5,1,1,3,1,2,sadness
+434,5578,"Shopping, when i went for shopping with my wife only to enter the rest room and discover someone used it without flushing it",5,1,1,1,5,1,5,1,1,2,1,5,1,4,5,2,5,5,3,5,4,disgust
+435,41464,my grandma died.,3,2,4,1,5,2,5,1,1,2,1,4,1,1,5,2,1,1,3,2,4,sadness
+436,5801,i experienced my first earthquake 2 weeks ago,5,1,1,1,5,3,5,1,1,4,1,3,1,1,5,3,4,1,1,2,1,fear
+437,51975,When I quit my previous job,5,1,1,3,5,1,1,5,3,1,3,5,2,3,1,1,5,3,4,5,5,relief
+438,5678,"When my oldest child was about 18 months old, he took his nappy off and decided to finger paint with the contents of his nappy.  I had to clean him up as well as the...art that he had spread over the walls, carpet and toys. I felt disgust with the smell and situation, not my child.",4,4,4,1,5,1,3,1,4,3,2,5,4,3,4,5,3,1,5,5,4,disgust
+439,3455,"on a late night walk (4am) with 3 female friends. A shadowy figure appeared on the path ahead. I was fine, but the 3 of them got behind me and asked me to stand in front. I remember feeling fear once they did that, even though normally seeing other people on my late night/early morning walks never bothered me in the past",5,5,3,2,3,3,2,2,4,4,5,5,5,5,1,3,3,1,5,1,2,fear
+440,41270,when I got accepted for my first job out of college,2,1,4,5,1,5,2,4,2,4,5,3,4,2,1,3,1,1,4,1,3,relief
+441,6788,I had been experiencing some difficult days. I was feeling sad and slightly detached. When I woke up that morning I felt those feelings had lifted. I felt genuine relief to feel like myself again.,5,1,1,4,1,4,4,1,1,1,5,3,1,1,3,4,1,1,1,1,2,relief
+442,52506,my husband took me away on a surprise holiday,4,1,3,5,1,3,4,1,5,2,5,3,1,5,1,3,1,1,3,1,3,surprise
+443,41463,"I felt sadness when I watched the trailer to ""The Farewell"".",4,5,5,5,1,3,3,3,2,5,2,1,1,1,4,5,1,1,4,1,1,sadness
+444,5526,I found out that my brother was a rapist,5,1,1,1,5,5,1,1,5,1,1,5,3,5,5,1,5,5,5,5,5,disgust
+445,4371,I saw someone urinate on the street,5,1,1,1,5,1,1,1,5,4,1,5,1,5,1,5,5,5,1,5,2,disgust
+446,6359,I felt fear when I had a bad dream because it involved something bad happening to my son,4,1,1,1,5,1,3,4,1,3,1,1,1,1,1,2,1,1,4,4,2,fear
+447,52772,I felt trust around people because I also wan to be trusted too,4,5,3,4,3,4,2,4,5,3,5,2,4,2,5,3,1,4,5,3,2,trust
+448,5811,I felt fear when my daughter had an allergic reaction to peanuts.,5,1,1,1,5,4,3,2,2,1,3,5,1,1,5,3,3,1,4,1,5,fear
+449,41841,"A work colleague told me a secret about another associate, because she trusted I wouldn't spread the news around nor would I tell the colleague that I knew. I agreed I would not tell, that she could trust me and I felt pride that she could tell me. I did keep the secret until the colleague the news was about, informed the rest of the workplace of her pregnancy.",4,3,2,3,2,2,2,2,4,3,3,4,2,2,2,2,2,2,2,2,2,trust
+450,31225,I found out my grandpa used to believe interracial marriage was a sin.,3,1,1,1,5,3,1,2,4,2,1,2,2,3,1,2,5,2,4,2,3,surprise
+451,3342,Donald Trump was elected into office,1,4,3,1,5,4,1,1,4,4,1,1,1,5,2,2,5,2,4,2,5,disgust
+452,5829,I was in a car accident,5,1,2,1,5,5,5,3,5,2,1,5,2,5,2,1,4,4,5,4,4,fear
+453,3299,"I went to the library and someone sat next to me who had extremely bad personal hygiene, I could barely take a breath without feeling like I was inhaling his stench",5,3,1,1,5,1,3,1,5,4,1,3,3,3,1,5,4,4,5,5,3,disgust
+454,52721,"when my husband said ""I do"". I felt like i could trust him with my life. Was an amazing feeling to feel that someone loved you so much that you really could trust them with your life.",1,1,3,5,1,3,3,3,4,2,4,3,1,3,3,1,1,1,3,1,1,trust
+455,3635,"I walked up to the woods with an old friend and we reconnected while spending time in nature, we had interesting and emotional conversations and saw a deer!",1,2,3,5,1,2,1,3,3,3,4,2,3,4,1,5,1,1,3,1,2,joy
+456,6138,I was at a wedding where I didn't really know anyone,1,3,5,2,5,1,1,1,1,5,1,1,1,2,1,3,3,1,3,1,5,boredom
+457,6349,"I felt fear when me and my boyfriend and cousin all went to the haunted caves in my hometown because it's a natural underground cave system that has a lot of traffic through it during the month of October, and it doesn't have very many reinforcements inside of it so I was scared that it was going to cave in on us while we were in there. This is an event that I have heard of happening before. I was also scared because it was a haunted attraction and I knew that there would be people inside ready to scare me as I pass them and I am very very easily jump scared and I knew that they would be able to easily scare me and my group that I was with",1,3,2,1,5,2,2,1,2,4,1,2,1,2,3,4,3,2,1,5,2,fear
+458,4205,Had to sit through all day lectures for work in a topic I had no interest in.,1,4,5,2,5,3,2,3,4,5,3,2,1,5,1,5,5,1,4,4,5,boredom
+459,41217,I felt relief when I thought I had covid-19 and would miss out on valuable school clinic time but the test came back negative,4,1,3,5,3,5,2,4,3,4,5,4,1,4,1,2,3,1,3,1,3,relief
+460,51043,When i made someone wait for me,1,4,5,2,3,1,1,5,1,3,1,1,5,2,1,5,4,1,1,2,2,guilt
+461,3883,"I felt pride the day I decided to move back to my home country, it was a hard decision for me because I was engaged to someone in a different country who was not willing to move.",2,5,3,1,5,5,4,5,3,4,3,5,1,3,4,1,3,2,5,2,5,pride
+462,5516,"My son vomited all over the bed at 2am, while we were on holiday",5,1,2,1,5,3,3,2,3,4,1,5,3,3,2,5,4,1,4,5,4,disgust
+463,51244,going to the lake with my dog and having a very nice walk,1,4,5,5,1,1,1,5,1,5,5,1,5,1,1,1,1,1,5,1,5,joy
+464,3554,I received a message from a friend about a job opportunity which we would be able to work at together,4,2,1,3,2,4,2,2,4,4,4,5,3,4,1,5,1,1,5,1,4,joy
+465,52089,my grandfather died suddenly,4,1,1,2,5,3,5,1,1,3,1,1,1,3,5,2,3,1,2,4,2,sadness
+466,5770,I felt fear when my 4 year old daughter ran out in front of a car.,5,1,1,1,5,5,5,1,5,5,1,5,2,5,2,1,4,3,5,1,5,fear
+467,4942,I saw a few cars go past me while I was walking near the highway.,2,5,5,3,1,1,1,1,5,5,3,3,3,5,1,5,1,1,3,1,1,no-emotion
+468,51637,When my son won an award,1,3,1,5,1,3,1,1,5,1,2,4,1,5,2,1,1,1,5,1,2,pride
+469,41261,I was paid on Friday and I didn't need to worry about my bills.,1,5,5,5,1,3,1,4,1,4,5,1,1,4,1,3,1,1,1,3,1,relief
+470,4478,someone else got an award and I thought I was going to get it.,4,1,3,1,5,3,1,1,5,2,4,2,1,3,2,3,1,1,2,3,3,disgust
+471,3313,a friend threw up in my car,3,1,5,1,5,1,4,1,5,5,1,5,1,5,1,1,3,3,3,2,3,disgust
+472,752,"One day, I was at my aunties and she opened a tin of corned beef. As she sliced it, we found a cow's eye (complete with eyelashes!) inside the beef.",4,1,1,1,5,2,4,1,2,1,1,4,2,2,4,2,5,1,3,5,4,disgust
+473,52082,my daughter was ill and was very sick through the night and i felt i couldn't help,5,4,1,1,5,1,4,1,1,1,1,5,1,1,1,1,3,1,5,1,4,sadness
+474,52564,I felt SURPRISE when I was diagnosed with leukaemia with no prior symptoms.,5,1,1,1,5,5,5,1,1,1,1,4,2,4,5,2,3,1,5,2,5,surprise
+475,52348,i felt shame when i was in the university during my educational days because i wasn't able to answer a specific question i was asked during the lecture,5,1,1,1,5,4,4,3,2,5,1,1,1,1,1,1,5,1,5,5,5,shame
+476,419,"my rent was due, as usual on the 17th of the month. I’ve spent the whole month worrying about money and bills and not being able to afford to live. On top of this, it is my daughters first birthday a week after rent is due and a week before payday. I felt anger at the world, at myself, at my situation and at my family. How do my partner and I spend all our time working and we can’t afford to pay our rent or guiltlessly give our daughter the perfect first birthday, even on a budget. I don’t need it to be at all expensive, I just wanted to be able to afford the basics!",2,2,4,1,5,4,2,4,4,4,1,4,5,2,1,1,5,1,5,4,5,anger
+477,51847,Moving back home after moving to London,5,1,4,4,2,5,3,5,4,2,5,5,4,2,2,1,4,4,5,4,4,relief
+478,6780,I felt relief when I see my partner as it means I can finally relax and do not have to worry about anything else.,3,5,5,5,1,4,2,3,5,5,4,3,4,4,2,2,1,1,1,1,1,relief
+479,4363,When a drunk vomited on my feet,5,1,1,1,5,1,3,1,5,1,1,5,1,1,1,5,5,5,3,5,1,disgust
+480,52746,I felt trust after I started therapy to help manage my anxiety and depression. My therapist was very understanding and helped me to start making changes from our very first session. I had really been struggling with my daily routine and mood and she did not judge me at all which was so helpful as I felt very ashamed to be in the position I was. She really met me at the point I was and just listened and gave me the validation I had been missing and I really trusted her from that point onwards.,1,1,2,2,4,5,1,3,5,3,5,5,4,5,2,2,2,3,5,5,5,trust
+481,4424,my brother committed fraud.,2,1,2,1,5,1,1,1,5,4,3,4,1,5,2,3,5,5,3,2,2,disgust
+482,6978,"I felt surprise when the person I have had interest from a long time, that i lost touch with came back into my life and confessed the same feelings",3,4,2,5,1,3,4,3,3,2,3,4,3,3,2,4,1,1,4,1,4,surprise
+483,917,i learned my great grandad had a secret second family,3,1,1,1,4,2,1,1,5,1,1,1,1,4,1,3,5,5,5,3,2,surprise
+484,41272,"The local authority accepted my education report for my children's home education, meaning I don't need to worry about a surprise doorstep visit.",4,3,3,5,1,5,1,4,4,5,4,3,3,5,1,4,2,1,4,4,4,relief
+485,4175,"waiting for food to cook, it might sound silly but I end up in a dilemma of there's no point leaving the kitchen because by the time I do i will just need to go back and sort food out.",1,5,5,3,3,4,1,4,1,5,1,1,4,1,1,5,1,1,4,2,4,boredom
+486,31170,i felt shame when my work supervisor called me out in front of my colleagues to yell at me for not doing an examination very well for a patient,4,1,2,1,5,4,1,5,2,1,1,2,2,3,1,2,4,2,4,4,3,shame
+487,4754,when I received good grades in school. it was because of my actions in which I deserved those grades.,1,5,4,5,1,5,1,5,1,4,4,2,5,4,2,4,3,1,5,1,5,joy
+488,52060,My grandad passed away,3,4,5,1,5,5,4,1,1,5,1,4,1,1,5,1,1,1,5,1,3,sadness
+489,52165,When I had to have my elderly dog put to sleep,2,4,5,1,5,2,5,1,1,5,1,4,2,5,5,2,1,1,5,5,5,sadness
+490,41462,my dad was diagnosed with Alzheimer's (he was only 50) when i was still in school. i knew that i was losing my dad in front of me and was beginning to have to mourn his loss while he was still alive. my parents had also began legally divorcing/separating so i knew that i wouldn't get to spend much time around him.,1,1,5,1,5,5,5,1,1,4,1,2,1,1,5,1,3,1,5,2,5,sadness
+491,31400,when my doctor assured me my surgery went well.,1,1,4,2,4,5,1,1,5,3,3,2,1,5,3,4,1,1,4,1,1,trust
+492,3345,I stood barefoot on a slug.,5,3,4,1,4,1,4,4,1,1,1,2,1,1,3,4,4,1,2,2,1,disgust
+493,5960,walking down a country road at night with no lights,3,3,5,2,4,3,1,5,1,5,2,3,4,2,1,5,1,1,2,3,3,fear
+494,467,I feel anger when people judge people without getting to know them. I see this often in my job as I work with homeless people and they are often preconceived as waste of spaces from many people. A key event was when I was taking one of these people to an appointment and the person that was leading the appointment looked down their nose at the client.,5,4,5,1,5,2,5,1,5,3,1,5,5,1,2,5,5,3,5,5,5,anger
+495,497,I felt anger when I couldn't merge onto the highway because somebody wanted to beat me in line.,5,5,2,1,5,5,5,3,5,3,1,5,2,4,1,3,4,4,5,4,3,anger
+496,52504,I found $100 on the footpath,5,4,1,5,1,1,5,1,4,1,1,3,1,3,5,1,1,3,5,1,1,surprise
+497,5826,I experienced sudden pain while on an aeroplane.,5,1,1,1,5,5,2,1,1,1,1,4,1,1,5,2,1,1,5,5,5,fear
+498,351,i felt angry when i got cheated on,5,1,2,1,5,4,1,1,5,1,1,1,2,3,1,3,1,1,5,5,5,anger
+499,98,I have racked up a large amount of debt,2,5,5,1,5,5,1,5,1,5,1,5,3,2,1,2,5,4,5,5,5,guilt
+500,250,I saw a clip from a documentary of baby seals being killed,3,1,2,1,5,3,1,1,5,3,1,3,1,5,3,3,5,4,2,5,4,disgust
+501,3656,learning sociology for my A-Levels,1,3,5,2,4,5,1,5,1,5,3,5,1,5,1,4,1,1,5,2,2,no-emotion
+502,4574,"I felt fear when a spider crawled across my pillow as I was trying to fall asleep. I am arachnophobic, and the event triggered a strong feeling of fear and paranoia that prevented me from falling asleep until I'd checked every inch of the bedroom for more spiders.",3,1,1,1,5,2,4,1,1,3,1,5,3,1,5,3,1,1,5,3,5,fear
+503,51358,A lady reversed into my car causing a few very very small scratches,5,1,1,1,1,1,4,1,5,1,1,1,1,5,3,5,1,3,4,1,1,no-emotion
+504,51824,I passed my exams in banking,1,4,2,5,1,5,1,5,1,2,5,5,2,2,1,5,1,1,5,1,2,relief
+505,5159,My husband got annoyed when driving and drove too fast,4,1,1,1,5,4,1,1,5,3,1,1,2,5,1,1,4,4,4,4,3,anger
+506,61004,i was given extra money in my pay packet,5,1,1,4,1,3,1,3,4,1,4,2,4,5,1,4,1,1,3,1,1,surprise
+507,52056,When my father died,2,3,4,1,5,5,5,1,1,5,1,5,1,3,5,1,2,1,2,5,5,sadness
+508,3417,my mother died and I lived in a pretty constant state of fear about my father also dying,5,1,1,1,5,5,5,1,1,1,1,4,1,5,5,1,5,1,5,1,5,fear
+509,6168,I had to wait in the doctors waiting room.,1,4,4,2,4,2,2,1,4,4,3,2,3,4,4,3,3,2,3,3,3,boredom
+510,3103,My co worker who is roughly 20 - 30 years older than me walking away from customers when they come asking me to serve them while she pretends to be working. This happens all the time and I can't do anything as she is older and is respected upon management.,2,3,3,2,4,2,1,4,5,3,3,1,3,5,1,4,3,3,3,1,4,anger
+511,3269,I felt DISGUST when I saw the body of a dead decaying animal in the woods,5,2,2,1,5,3,5,1,1,3,2,4,2,2,5,3,1,3,2,5,4,disgust
+512,5523,"I had to help a heifer deliver a calf when I was about 12 years old.  I felt a weird sense of pride for being able to help the cow, but at the same time I felt incredibly grossed out from what exactly I was looking at and doing.",3,2,1,2,4,1,1,1,1,1,1,5,1,3,5,4,1,1,4,4,5,disgust
+513,3705,I attended the funeral of my partner,1,1,1,1,1,5,5,1,5,1,1,5,1,4,5,3,1,1,5,5,5,no-emotion
+514,7140,"I thought my friend had gone missing after a night out because he wasn't responding to texts, he eventually replied later in the day and was fine.",5,1,1,1,5,3,1,2,5,1,1,5,1,5,2,1,3,1,5,2,4,relief
+515,5451,"I felt boredom most during covid-19 period because I don't have much thing to do in the house, everything was just bored to the extent I don't use to sleep in the midnight and the only thing I use to do is playing with my family and login to the internet, it's really a situation I don't like at all",3,3,2,1,5,3,3,1,2,3,3,2,3,1,4,3,4,2,4,3,4,boredom
+516,51707,I felt pride in learning my new job all remotely during the pandemic,3,1,2,5,1,2,3,3,5,2,5,4,4,5,4,4,2,1,5,1,4,pride
+517,4899,I felt no particular emotion when I did not attend my gaming clans event they scheduled,2,4,5,1,1,3,2,4,2,3,1,1,5,1,2,4,5,1,1,4,2,no-emotion
+518,41146,I graduated from my degree,1,1,3,3,1,4,1,5,4,5,5,1,2,5,1,3,1,1,4,1,2,pride
+519,6786,We got approved for the mortgage for our new home,4,1,1,5,1,5,1,3,5,3,3,2,3,5,1,3,1,1,5,1,5,relief
+520,5114,When I was robbed before,5,1,1,1,4,1,1,1,5,1,1,1,1,5,1,1,1,5,2,2,1,anger
+521,31078,I felt SADNESS when my best friend moved away for her erasmus year in college.,1,2,5,1,4,2,1,1,5,4,2,2,1,5,1,3,1,1,4,4,3,sadness
+522,5177,garage constantly using residents only parking as their overflow car park.,1,5,3,1,5,4,1,1,5,4,2,1,4,5,1,1,5,5,3,5,3,anger
+523,4229,I was alone with no plans,2,5,5,1,4,1,1,4,4,5,1,1,5,2,1,4,5,1,1,5,1,boredom
+524,51186,I was racing on a racing track with my dad in the car and we did an extra lap when we weren’t supposed to which was really fun and will never be able to do in my lifetime,4,1,3,5,1,4,3,3,3,4,5,4,5,3,2,4,2,2,5,1,3,joy
+525,3768,"I felt no particular emotion when my grandmother died. I expected to feel more, or at least to feel the way my other family members did. But it did not evoke emotion in me, probably because we had a bad relationship.",2,4,1,1,3,5,5,1,3,1,1,4,1,1,5,4,3,1,5,1,2,no-emotion
+526,52766,when my rescue donkey let me touch him.,1,3,3,5,1,4,4,4,1,3,5,5,5,1,1,3,1,1,5,1,2,trust
+527,3243,Someone was eating loudly next to me,5,5,5,1,5,1,4,1,5,5,1,1,1,5,1,5,5,4,2,5,5,disgust
+528,3350,I went a resturant to eat somthing and the food quality were very poor.,4,3,4,3,4,3,4,2,4,4,4,4,3,4,3,4,3,3,4,4,4,disgust
+529,52652,"When I found out someone I went to school with was homosexual I very surprised. Especially as for years at school he was dating the same girl, who was quite pretty and a lot of the other boys were jealous of. He married her and had 2 kids with her. None of us had any idea he was gay. She asked him for years if he was gay and it took until he was 30 to finally come out. Total surprise. !!",4,2,1,3,1,1,4,1,5,1,1,1,1,1,3,5,1,1,1,1,1,surprise
+530,41237,"I found out that I did not have to do something in my planned trip which I did not personally like, but another friend was trying to convince the others to do.",1,2,3,4,1,1,1,5,3,3,3,2,4,4,1,4,1,1,2,1,1,relief
+531,4188,I had nothing to do,2,5,5,2,4,3,3,5,3,2,1,3,5,3,1,3,3,3,3,4,5,boredom
+532,251,i saw my ex girlfriend kiss another man,2,1,4,1,5,2,3,3,4,5,3,2,1,5,1,3,2,1,1,5,3,disgust
+533,52075,I felt sadness when I had to leave Texas to go to college in New Haven.,1,2,5,1,4,4,2,4,4,4,4,3,3,3,4,4,3,1,3,4,4,sadness
+534,41436,I lost my first baby,5,1,1,1,5,3,5,1,1,1,1,5,1,3,1,3,3,5,5,5,5,sadness
+535,51196,when I had my baby,4,1,1,5,1,4,4,4,4,1,4,4,4,4,1,4,1,1,4,1,5,joy
+536,51664,I completed an acrylic portrait of worked on for several days,1,4,4,5,1,4,1,5,1,5,5,1,5,1,1,5,1,1,5,1,3,pride
+537,225,I was off work for the summer and no one else was too.,1,4,3,4,2,4,1,2,2,3,5,1,3,1,1,3,4,1,1,1,1,boredom
+538,2204,My boyfriend surprised me with a weekend trip to London. He isn't very romantic so it was amazing to be surprised with such an exciting trip. We went to watch a Rugby League final and had a fancy dinner.,4,1,1,5,1,1,1,1,5,5,5,5,4,5,1,4,1,2,3,1,1,surprise
+539,31159,"I felt shame when I dropped out of college and now have no direction for where I want to go in my life. My seasonal job is just about to end and I don't have anything to replace it yet, I feel lost and like I'm not good enough or not doing enough things.",1,5,5,1,5,5,5,5,5,5,2,5,3,3,3,2,5,5,5,5,5,shame

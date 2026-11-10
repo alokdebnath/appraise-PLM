@@ -45,9 +45,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
+   **Important:** For GPU training on an NVIDIA A100, install a CUDA-matched PyTorch build instead of the default CPU wheel:
+   ```bash
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+   ```
+   See the "GPU / CUDA setup" section in Notes for details.
 
 3. For cluster environments, activate your conda environment:
 ```bash
@@ -207,9 +212,9 @@ The model can be configured through `configs/model_configs.yaml` or command-line
 The code supports any HuggingFace transformer model. Tested models include:
 - RoBERTa (base, large)
 - BERT (base, large)
-- DeBERTa (large)
+- DeBERTa (v3-base, large)
 - T5 (base)
-- MPNet (base)
+- MPNet (base, all-mpnet-base-v2)
 
 ## Output
 
@@ -243,6 +248,63 @@ See `requirements.txt` for full list. Key dependencies:
 - Analysis outputs are regenerated and can be excluded from version control
 - Raw data files are excluded but directory structure is preserved
 - SLURM job outputs are stored in `slurm/` directory
+
+### GPU / CUDA setup (A100)
+
+The code runs on CPU by default unless a CUDA-compatible PyTorch build is installed.
+On an NVIDIA A100 with driver ≥ 525, install the CUDA 12 build:
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+```
+
+Verify the GPU is detected:
+
+```bash
+python -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_device_name(0))"
+```
+
+### Config files
+
+Configuration lives in `configs/`. Three preset configs are provided:
+
+- `configs/model_configs_roberta.yaml` — `roberta-base`
+- `configs/model_configs_deberta.yaml` — `microsoft/deberta-v3-base`
+- `configs/model_configs_mpnet.yaml` — `sentence-transformers/all-mpnet-base-v2`
+
+You can pass any HuggingFace model name via `--model_name` regardless of config file.
+
+### DeBERTa v3 requirements
+
+DeBERTa v3 (`microsoft/deberta-v3-base`) requires:
+- `transformers>=4.36.0` (for DebertaV2 architecture support)
+- `sentencepiece` (for its SentencePiece tokenizer)
+
+Install both via `pip install -r requirements.txt`.
+
+### Replication notes
+
+To replicate this work on a new machine:
+
+1. Create a virtual/conda environment and install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Install a CUDA-matched PyTorch build for your GPU driver (see GPU / CUDA setup above).
+3. Set `HF_TOKEN` for higher Hugging Face Hub rate limits (optional but recommended):
+   ```bash
+   export HF_TOKEN=your_token_here
+   ```
+4. Run training with a config file:
+   ```bash
+   python src/multi_task_regression.py \
+       --model_name "microsoft/deberta-v3-base" \
+       --train_path "data/crowd-enVent-train.tsv" \
+       --val_path "data/crowd-enVent-val.tsv" \
+       --test_path "data/crowd-enVent-test.tsv" \
+       --output_dir "models/deberta-v3-base" \
+       --save_best_model
+   ```
 
 ## Citation
 

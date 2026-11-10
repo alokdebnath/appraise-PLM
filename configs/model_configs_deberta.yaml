@@ -1,0 +1,9 @@
+model_name: "microsoft/deberta-v3-base"  # DeBERTa v3 base
+num_dimensions: 21
+hidden_size: 768
+dropout: 0.1
+learning_rate: 1e-5  # Lower LR recommended for DeBERTa v3
+batch_size: 16  # Smaller batch size for larger model
+num_epochs: 10
+warmup_steps: 100
+max_length: 512

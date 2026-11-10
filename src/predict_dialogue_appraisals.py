@@ -63,7 +63,7 @@ class MultiTaskRegressionModel(nn.Module):
         self.appraisal_dimensions = config['appraisal_dimensions']
         
         # Load the base model
-        self.encoder = AutoModel.from_pretrained(config['model_name'])
+        self.encoder = AutoModel.from_pretrained(config['model_name'], torch_dtype=torch.float32)
         
         # Get the actual hidden size from the model
         self.hidden_size = self.encoder.config.hidden_size

@@ -94,14 +94,14 @@ class MultiTaskRegressionModel(nn.Module):
                 decoder_input_ids=decoder_input_ids,
                 return_dict=True
             )
-            pooled_output = outputs.encoder_last_hidden_state[:, 0, :]
+            pooled_output = outputs.encoder_last_hidden_state[:, 0, :].float()
         else:
             outputs = self.encoder(
                 input_ids=input_ids,
                 attention_mask=attention_mask,
                 return_dict=True
             )
-            pooled_output = outputs.last_hidden_state[:, 0, :]
+            pooled_output = outputs.last_hidden_state[:, 0, :].float()
         
         # Get predictions for each dimension
         predictions = {}
@@ -125,6 +125,8 @@ def load_model(model_path: str) -> Tuple[MultiTaskRegressionModel, AutoTokenizer
     
     # Load tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model.config['model_name'])
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
     
     return model, tokenizer
 

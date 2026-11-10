@@ -204,7 +204,7 @@ class MultiTaskRegressionModel(nn.Module):
                 return_dict=True
             )
             # Use encoder's last hidden state
-            pooled_output = outputs.encoder_last_hidden_state[:, 0, :]
+            pooled_output = outputs.encoder_last_hidden_state[:, 0, :].float()
         else:
             # For encoder-only models
             outputs = self.encoder(
@@ -213,7 +213,7 @@ class MultiTaskRegressionModel(nn.Module):
                 return_dict=True
             )
             # Use [CLS] token representation
-            pooled_output = outputs.last_hidden_state[:, 0, :]
+            pooled_output = outputs.last_hidden_state[:, 0, :].float()
         
         # Get predictions for each dimension
         predictions = {}
@@ -297,10 +297,15 @@ class MultiTaskTrainer:
                 loss = loss / len(outputs)  # Average loss across dimensions
                 
                 loss.backward()
-                self.optimizer.step()
-                self.scheduler.step()
+                # Gradient clipping to prevent exploding gradients (common with larger models like DeBERTa v3)
+                torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
+                if not torch.isnan(loss):
+                    self.optimizer.step()
+                    self.scheduler.step()
+                    total_loss += loss.item()
+                else:
+                    logger.warning(f"Skipping batch {num_batches}: loss is NaN")
                 
-                total_loss += loss.item()
                 num_batches += 1
                 
                 if num_batches % self.config.log_interval == 0:
@@ -355,10 +360,14 @@ class MultiTaskTrainer:
                 batch_predictions = []
                 for i, (dim, pred) in enumerate(outputs.items()):
                     loss += self.criterion(pred.squeeze(), labels[:, i])
-                    batch_predictions.append(pred.squeeze().cpu().numpy())
+                    pred_np = pred.squeeze().cpu().numpy()
+                    # Replace NaN predictions with 0 to avoid breaking sklearn metrics
+                    pred_np = np.where(np.isnan(pred_np), 0.0, pred_np)
+                    batch_predictions.append(pred_np)
                 loss = loss / len(outputs)
                 
-                total_loss += loss.item()
+                if not np.isnan(loss.item()):
+                    total_loss += loss.item()
                 all_predictions.append(np.column_stack(batch_predictions))
                 all_labels.append(labels.cpu().numpy())
         
@@ -435,6 +444,24 @@ def load_data(
             if col not in train_df.columns:
                 raise ValueError(f"Required column '{col}' not found in dataset")
         
+        # Check for and drop rows with NaN in required columns (causes NaN loss)
+        for name, df in [('train', train_df), ('val', val_df)]:
+            nan_mask = df[required_cols].isna().any(axis=1)
+            nan_count = int(nan_mask.sum())
+            if nan_count > 0:
+                logger.warning(f"{name} dataset has {nan_count} rows with NaN in required columns; dropping them")
+                if name == 'train':
+                    train_df = train_df[~nan_mask].reset_index(drop=True)
+                else:
+                    val_df = val_df[~nan_mask].reset_index(drop=True)
+        
+        if test_df is not None:
+            nan_mask = test_df[required_cols].isna().any(axis=1)
+            nan_count = int(nan_mask.sum())
+            if nan_count > 0:
+                logger.warning(f"test dataset has {nan_count} rows with NaN in required columns; dropping them")
+                test_df = test_df[~nan_mask].reset_index(drop=True)
+        
         logger.info(f"Loaded {len(train_df)} training examples")
         logger.info(f"Loaded {len(val_df)} validation examples")
         if test_df is not None:
@@ -455,6 +482,8 @@ def prepare_dataloaders(
     """Prepare dataloaders for training."""
     try:
         tokenizer = AutoTokenizer.from_pretrained(config.model_name)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
         logger.info(f"Loaded tokenizer for {config.model_name}")
         
         # Define appraisal dimension columns

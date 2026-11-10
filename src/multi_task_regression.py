@@ -215,10 +215,18 @@ class MultiTaskRegressionModel(nn.Module):
             # Use [CLS] token representation
             pooled_output = outputs.last_hidden_state[:, 0, :].float()
         
+        # Diagnostic: check for NaN in encoder output
+        if torch.isnan(pooled_output).any():
+            logger.error(f"NaN detected in encoder pooled_output! input_ids min/max: {input_ids.min().item()}/{input_ids.max().item()}")
+            logger.error(f"pooled_output stats: mean={pooled_output.mean().item()}, std={pooled_output.std().item()}, min={pooled_output.min().item()}, max={pooled_output.max().item()}")
+        
         # Get predictions for each dimension
         predictions = {}
         for dim, head in self.regression_heads.items():
-            predictions[dim] = head(pooled_output).squeeze(-1)
+            pred = head(pooled_output).squeeze(-1)
+            if torch.isnan(pred).any():
+                logger.error(f"NaN detected in head output for dim '{dim}'!")
+            predictions[dim] = pred
         
         return predictions
 
@@ -509,6 +517,12 @@ def prepare_dataloaders(
             tokenizer=tokenizer,
             max_length=config.max_length
         )
+        
+        # Diagnostic: check labels for NaN
+        for col in appraisal_cols:
+            col_nan = int(train_df[col].isna().sum())
+            if col_nan > 0:
+                logger.warning(f"Label column '{col}' still has {col_nan} NaN values after dropping NaN rows")
         
         val_dataset = AppraisalDataset(
             texts=val_df['generated_text'].tolist(),

@@ -215,10 +215,22 @@ class MultiTaskRegressionModel(nn.Module):
             # Use [CLS] token representation
             pooled_output = outputs.last_hidden_state[:, 0, :].float()
         
-        # Diagnostic: check for NaN in encoder output
+        # Diagnostic: check for NaN at each stage
         if torch.isnan(pooled_output).any():
-            logger.error(f"NaN detected in encoder pooled_output! input_ids min/max: {input_ids.min().item()}/{input_ids.max().item()}")
-            logger.error(f"pooled_output stats: mean={pooled_output.mean().item()}, std={pooled_output.std().item()}, min={pooled_output.min().item()}, max={pooled_output.max().item()}")
+            logger.error(f"NaN in pooled_output! input_ids range: {input_ids.min().item()}/{input_ids.max().item()}")
+            logger.error(f"attention_mask sum: {attention_mask.sum().item()}, min: {attention_mask.min().item()}, max: {attention_mask.max().item()}")
+            # Check model weights for NaN
+            nan_params = []
+            for name, param in self.encoder.named_parameters():
+                if torch.isnan(param).any():
+                    nan_params.append(name)
+            if nan_params:
+                logger.error(f"NaN found in encoder parameters: {nan_params[:5]}...")
+            else:
+                logger.error("No NaN in encoder parameters — NaN is generated during forward pass")
+            # Check if model is in half precision
+            logger.error(f"Encoder dtype: {next(self.encoder.parameters()).dtype}")
+            logger.error(f"pooled_output stats: mean={pooled_output.mean().item() if not torch.isnan(pooled_output).all() else 'nan'}, std={pooled_output.std().item() if not torch.isnan(pooled_output).all() else 'nan'}")
         
         # Get predictions for each dimension
         predictions = {}
